@@ -1,12 +1,5 @@
 [
   {
-    "slug": "karcher-wd-1-classic-1-628-411-0",
-    "title": "Karcher WD 1 Classic 1.628-411.0",
-    "category": "EV & YAŞAM",
-    "status": "posted",
-    "ts": 1793660000.0
-  },
-  {
     "slug": "philips-5500-serisi-lattego-tam-otomatik-espresso-",
     "title": "Philips 5500 Serisi LatteGo Tam Otomatik Espresso Makinesi (EP5547/90) ve Philips Espresso Makinesi Kahve Yağı Çözücü Tablet (CA6704/10)",
     "category": "AKILLI TELEFON & TABLET",
@@ -1048,5 +1041,12 @@
     "category": "GÜNÜN FIRSATI",
     "status": "posted",
     "ts": 1795034845.8177311
+  },
+  {
+    "slug": "pantene-onar-c-koruyucu-ampuan-800-ml",
+    "title": "PANTENE Onarıcı & Koruyucu Şampuan 800 ml",
+    "category": "KİŞİSEL BAKIM FIRSATI",
+    "status": "posted",
+    "ts": 1795038364.0085683
   }
 ]
