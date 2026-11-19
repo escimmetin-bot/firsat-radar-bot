@@ -1,45 +1,766 @@
 {
+  "B0D7QDM7L1": {
+    "title": "Calvin Klein Siyah T-Shirt, LV00NB4185 UB1",
+    "min_price": 1697.63,
+    "max_price": 1697.63,
+    "last_price": 1697.63,
+    "ts": 1795066511.4
+  },
+  "B00NZEFU9Y": {
+    "title": "BRITA Flow 1x Maxtra Pro All-In-1 Filtreli Su Arıtma Sebili ",
+    "min_price": 1699.15,
+    "max_price": 1699.15,
+    "last_price": 1699.15,
+    "ts": 1795066508.2
+  },
+  "B0B46PK8LD": {
+    "title": "Baseus Crystal Shine USB-A - Type-C Hızlı Şarj Veri Kablosu ",
+    "min_price": 249.0,
+    "max_price": 249.0,
+    "last_price": 249.0,
+    "ts": 1795066505.0
+  },
+  "B0DW4J1PV9": {
+    "title": "JIBBITZ Harry Potter Crocs Charms, 5'li",
+    "min_price": 673.86,
+    "max_price": 673.86,
+    "last_price": 673.86,
+    "ts": 1795066501.8
+  },
+  "B0BVZXXK7L": {
+    "title": "Tchibo Professional Espresso Çekirdek Kahve 2 Adet 1kg",
+    "min_price": 1420.0,
+    "max_price": 1420.0,
+    "last_price": 1420.0,
+    "ts": 1795066495.6
+  },
+  "B07JHGQHVD": {
+    "title": "Oral-B Pro Series 1 Pembe Elektrikli Diş Fırçası, 1 Diş Fırç",
+    "min_price": 1751.0,
+    "max_price": 1899.0,
+    "last_price": 1751.0,
+    "ts": 1795066492.5
+  },
+  "B0FTZF5WHP": {
+    "title": "Puma Flyer Lite 4 Koşu Ayakkabısı, 57-313499-3",
+    "min_price": 2227.43,
+    "max_price": 2227.43,
+    "last_price": 2227.43,
+    "ts": 1795066489.3
+  },
+  "B0005Z6ZK4": {
+    "title": "Nutella Kakaolu Fındık Kreması 400 Gr",
+    "min_price": 140.0,
+    "max_price": 140.0,
+    "last_price": 140.0,
+    "ts": 1795066486.1
+  },
+  "B01M179NN1": {
+    "title": "Nutella Kakaolu Fındık Kreması 1 Kg",
+    "min_price": 319.0,
+    "max_price": 319.0,
+    "last_price": 319.0,
+    "ts": 1795066486.0
+  },
+  "B009PIIMXA": {
+    "title": "Julius Meinl President Çekirdek Kahve, Orta Kavrulmuş, Class",
+    "min_price": 568.83,
+    "max_price": 568.83,
+    "last_price": 568.83,
+    "ts": 1795066486.0
+  },
+  "B0B558RJM4": {
+    "title": "3'lü-4'lü Pamuklu Renkli Çizgili Fitilli Kolej Spor Kadın Ço",
+    "min_price": 322.43,
+    "max_price": 322.43,
+    "last_price": 322.43,
+    "ts": 1795066482.9
+  },
+  "B0GS36DDLB": {
+    "title": "Doldurulabilir Mini Parfüm Şişesi 5 Ml - Cep Parfüm Şişesi",
+    "min_price": 61.0,
+    "max_price": 61.0,
+    "last_price": 61.0,
+    "ts": 1795066482.8
+  },
+  "B0G6XDJ4BY": {
+    "title": "JACK & JONES",
+    "min_price": 369.0,
+    "max_price": 369.0,
+    "last_price": 369.0,
+    "ts": 1795066482.7
+  },
+  "B0DJ38KMWG": {
+    "title": "Ayakkabı Koku Önleyici Toz, 10 Adet",
+    "min_price": 132.5,
+    "max_price": 132.5,
+    "last_price": 132.5,
+    "ts": 1795066482.7
+  },
+  "B0FT1GP59D": {
+    "title": "Unisex Kontrast Dikişli Bere (Bonoca)",
+    "min_price": 704.88,
+    "max_price": 704.88,
+    "last_price": 704.88,
+    "ts": 1795066482.7
+  },
+  "B0BX386GRS": {
+    "title": "3'lü-4'lü Pamuklu Renkli Çizgili Fitilli Kolej Spor Erkek Ço",
+    "min_price": 262.43,
+    "max_price": 262.43,
+    "last_price": 262.43,
+    "ts": 1795066482.6
+  },
+  "B0FS2829LQ": {
+    "title": "Dijital Bagaj Tartısı, Bavul Terazisi 50 Kg Elektronik El Ka",
+    "min_price": 244.11,
+    "max_price": 244.11,
+    "last_price": 244.11,
+    "ts": 1795066482.5
+  },
+  "B0CV7D9VGM": {
+    "title": "JACK & JONES",
+    "min_price": 324.0,
+    "max_price": 324.0,
+    "last_price": 324.0,
+    "ts": 1795066482.5
+  },
+  "B08PZCTMPR": {
+    "title": "2'li-4'lü Alpaka Yünlü Termal Kar Desen Kadın Erkek Çorap 30",
+    "min_price": 423.92,
+    "max_price": 423.92,
+    "last_price": 423.92,
+    "ts": 1795066482.5
+  },
+  "B0FTTF1CPG": {
+    "title": "ANTHONY JACKSON",
+    "min_price": 778.92,
+    "max_price": 778.92,
+    "last_price": 778.92,
+    "ts": 1795066482.5
+  },
+  "B0HC8J6MH5": {
+    "title": "Kadın 2'li Yün Kışlık Çorap H1542AXNS",
+    "min_price": 122.5,
+    "max_price": 124.0,
+    "last_price": 122.5,
+    "ts": 1795066482.4
+  },
+  "B0CLDPL3WP": {
+    "title": "ANTHONY JACKSON",
+    "min_price": 465.28,
+    "max_price": 491.92,
+    "last_price": 465.28,
+    "ts": 1795066482.4
+  },
+  "B0CK8MDN81": {
+    "title": "ANTHONY JACKSON",
+    "min_price": 666.2,
+    "max_price": 666.2,
+    "last_price": 666.2,
+    "ts": 1795066482.3
+  },
+  "B09987F63Z": {
+    "title": "ANTHONY JACKSON",
+    "min_price": 696.92,
+    "max_price": 696.92,
+    "last_price": 696.92,
+    "ts": 1795066482.3
+  },
+  "B08PZD22H9": {
+    "title": "3'lü Norveç Tipi Yünlü Kalın Moline Renkli Tam Havlulu Güçle",
+    "min_price": 449.93,
+    "max_price": 449.93,
+    "last_price": 449.93,
+    "ts": 1795066482.3
+  },
+  "B0CB1XBWY2": {
+    "title": "ANTHONY JACKSON",
+    "min_price": 620.12,
+    "max_price": 696.92,
+    "last_price": 620.12,
+    "ts": 1795066482.3
+  },
+  "B0FKH8NVSW": {
+    "title": "ANTHONY JACKSON",
+    "min_price": 1180.0,
+    "max_price": 1180.0,
+    "last_price": 1180.0,
+    "ts": 1795066482.2
+  },
+  "B0FBX2KRYY": {
+    "title": "Tommy Hilfiger",
+    "min_price": 3179.77,
+    "max_price": 3179.77,
+    "last_price": 3179.77,
+    "ts": 1795066482.2
+  },
+  "B0BYTBT741": {
+    "title": "ANTHONY JACKSON",
+    "min_price": 666.2,
+    "max_price": 696.92,
+    "last_price": 666.2,
+    "ts": 1795066482.2
+  },
+  "B0CLM7M3V6": {
+    "title": "ANTHONY JACKSON",
+    "min_price": 503.27,
+    "max_price": 557.52,
+    "last_price": 503.27,
+    "ts": 1795066482.1
+  },
+  "B0BFFT6NMG": {
+    "title": "Coverzone Çoklayıcı Adaptör 7in1 USB/Type-c To USB A, USB C ",
+    "min_price": 318.36,
+    "max_price": 318.36,
+    "last_price": 318.36,
+    "ts": 1795066475.9
+  },
+  "B088G18RVQ": {
+    "title": "Ugreen USB Type-C Şarj ve Data Kablosu, 1 Metre, Beyaz",
+    "min_price": 173.4,
+    "max_price": 173.4,
+    "last_price": 173.4,
+    "ts": 1795066475.9
+  },
+  "B0F3JSB8PX": {
+    "title": "Belkin 2'li Örgülü USB-C - USB-C Kablo, 1,5 m, 60 W – Yumuşa",
+    "min_price": 359.0,
+    "max_price": 359.0,
+    "last_price": 359.0,
+    "ts": 1795066475.9
+  },
+  "B098K3H92Z": {
+    "title": "TP-Link UB500, Bluetooth 5.4 (PC dizüstü bilgisayar masaüstü",
+    "min_price": 289.0,
+    "max_price": 299.0,
+    "last_price": 289.0,
+    "ts": 1795066475.9
+  },
+  "B0B46N4SK5": {
+    "title": "Baseus Crystal Shine 100W 120 cm PD Type-C Şarj Kablosu Siya",
+    "min_price": 300.0,
+    "max_price": 300.0,
+    "last_price": 300.0,
+    "ts": 1795066475.8
+  },
+  "B0F6C91BZJ": {
+    "title": "L'Oreal Paris Elseve Mucizevi Yağ Besleyici Bakım Şampuanı 4",
+    "min_price": 99.0,
+    "max_price": 99.0,
+    "last_price": 99.0,
+    "ts": 1795066472.7
+  },
+  "B07NS2N7DN": {
+    "title": "LindoCat Lindo Cat Bebek Pudralı İnce Taneli Kedi Kumu 5 Lit",
+    "min_price": 151.88,
+    "max_price": 151.88,
+    "last_price": 151.88,
+    "ts": 1795066472.6
+  },
+  "B0976Y733H": {
+    "title": "Fairy Profesyonel Sıvı Bulaşık Deterjanı Elde Yıkama Limon K",
+    "min_price": 199.0,
+    "max_price": 199.0,
+    "last_price": 199.0,
+    "ts": 1795066472.6
+  },
+  "B08LL7MSMV": {
+    "title": "Proline Bentonit Sabun Kokulu Kedi Kumu, 5 L",
+    "min_price": 101.94,
+    "max_price": 101.94,
+    "last_price": 101.94,
+    "ts": 1795066472.6
+  },
   "B08F7TM98V": {
     "title": "PANTENE Onarıcı & Koruyucu Şampuan 800 ml",
     "min_price": 199.0,
     "max_price": 199.0,
     "last_price": 199.0,
-    "ts": 1795038335.9
+    "ts": 1795066472.5
   },
-  "B0FS2829LQ": {
-    "title": "Coverzone Dijital Bagaj Tartısı, Bavul Terazisi 50 Kg Elektr",
-    "min_price": 244.11,
-    "max_price": 244.11,
-    "last_price": 244.11,
-    "ts": 1795038332.9
+  "6051984445": {
+    "title": "Gece Yarısı Treni",
+    "min_price": 199.99,
+    "max_price": 199.99,
+    "last_price": 199.99,
+    "ts": 1795066472.5
   },
-  "B0FQ9F3JTZ": {
-    "title": "Yeni Nesil Ultra Sessiz Ve Ultra Hızlı Otomatik Damacana Pom",
-    "min_price": 1189.9,
-    "max_price": 1189.9,
-    "last_price": 1189.9,
-    "ts": 1795038329.8
+  "B09P6RDV84": {
+    "title": "Duru Limon Traditional 900 ml",
+    "min_price": 108.6,
+    "max_price": 108.6,
+    "last_price": 108.6,
+    "ts": 1795066471.1
   },
-  "B0DHZZVRHV": {
-    "title": "BASIL Kadını Oversize%100 Organik Pamuk Örme Uzun Kol T-Shir",
-    "min_price": 337.22,
-    "max_price": 337.22,
-    "last_price": 337.22,
-    "ts": 1795038326.7
+  "B07JMWKZ13": {
+    "title": "Schwarzkopf Men Perfect Saç Boyası 80 - Kahve Siyah, 80 Ml",
+    "min_price": 199.9,
+    "max_price": 199.9,
+    "last_price": 199.9,
+    "ts": 1795066471.0
   },
-  "B0FKH8NVSW": {
-    "title": "Anthony Jackson Ultra Hafif ABS Valiz TRION (Siyah, Kabin Bo",
-    "min_price": 1180.0,
-    "max_price": 1180.0,
-    "last_price": 1180.0,
-    "ts": 1795038323.6
+  "B07J46P36P": {
+    "title": "Trendline Kuzu Etli Yetişkin Kedi Maması 1 kg",
+    "min_price": 137.94,
+    "max_price": 172.43,
+    "last_price": 137.94,
+    "ts": 1795066471.0
+  },
+  "B07KCXFBCF": {
+    "title": "Ariel Dağ Esintisi Beyazlar Toz Çamaşır Deterjanı 4.5 Kg 30 ",
+    "min_price": 349.0,
+    "max_price": 349.0,
+    "last_price": 349.0,
+    "ts": 1795066469.2
+  },
+  "B0DQ5JN1CC": {
+    "title": "Canped Emici Külot Ekstra Büyük (XL) 30 Adet",
+    "min_price": 768.0,
+    "max_price": 779.9,
+    "last_price": 768.0,
+    "ts": 1795066469.1
+  },
+  "B0DT9WSLYD": {
+    "title": "Head & Shoulders İpeksi Yumuşaklık 2'si 1 Arada Kepeğe Karşı",
+    "min_price": 139.0,
+    "max_price": 139.0,
+    "last_price": 139.0,
+    "ts": 1795066469.1
+  },
+  "B08F7RSPZ4": {
+    "title": "PANTENE Onarıcı & Koruyucu 3'ü 1 Arada Şampuan 400 ml",
+    "min_price": 119.0,
+    "max_price": 119.0,
+    "last_price": 119.0,
+    "ts": 1795066469.0
+  },
+  "B0C43QRVPC": {
+    "title": "Validus Combo-Men Tribulus 400 mg + L-Arginine 200 mg + Maca",
+    "min_price": 432.72,
+    "max_price": 432.72,
+    "last_price": 432.72,
+    "ts": 1795066469.0
+  },
+  "B0DXP9L6NN": {
+    "title": "Oral-B iO Ultimate Clean Siyah Diş Fırçası Yedek Başlığı 4 A",
+    "min_price": 974.0,
+    "max_price": 974.0,
+    "last_price": 974.0,
+    "ts": 1795066467.6
+  },
+  "B0H6VLP7YS": {
+    "title": "Opalescence Beyazlatıcı Diş Macunu, Cool Mint aromalı 133 g ",
+    "min_price": 479.1,
+    "max_price": 479.2,
+    "last_price": 479.1,
+    "ts": 1795066467.5
+  },
+  "B08MXSBRSB": {
+    "title": "WaterWipes Yeni Doğan & Hassas Ciltler için 720 Yaprak Bebek",
+    "min_price": 2719.0,
+    "max_price": 2864.68,
+    "last_price": 2719.2,
+    "ts": 1795066467.5
+  },
+  "B08NT69H1V": {
+    "title": "ÜLKER Oneo Dopdolu Nane Draje Sakız, 60 Gr",
+    "min_price": 124.81,
+    "max_price": 124.81,
+    "last_price": 124.81,
+    "ts": 1795066465.7
+  },
+  "B09VFZ6LW8": {
+    "title": "Amazon kahve market Ürünü",
+    "min_price": 372.85,
+    "max_price": 372.85,
+    "last_price": 372.85,
+    "ts": 1795066465.7
+  },
+  "B08SF1N3SR": {
+    "title": "Dardanel Zeytinyağlı Ton Balığı 3x75 gr",
+    "min_price": 263.97,
+    "max_price": 263.97,
+    "last_price": 263.97,
+    "ts": 1795066465.6
+  },
+  "B0177IQTXO": {
+    "title": "Ferrero Rocher Çikolata 16'lı 200 Gr",
+    "min_price": 259.0,
+    "max_price": 279.0,
+    "last_price": 259.0,
+    "ts": 1795066465.6
+  },
+  "B0FS77LJ4T": {
+    "title": "Fellas Performance Kurabiye Aromalı Whey Protein 525g",
+    "min_price": 909.9,
+    "max_price": 909.9,
+    "last_price": 909.9,
+    "ts": 1795066465.6
+  },
+  "B0DJWGQNBS": {
+    "title": "Dardanel Zeytinyağlı Çanakkale Sardalya, 125 gr",
+    "min_price": 100.0,
+    "max_price": 100.0,
+    "last_price": 100.0,
+    "ts": 1795066465.6
+  },
+  "B09HRWCSR1": {
+    "title": "Fellas Protein Bar, Karma Kutu (3 Çeşit), 32gr x 12 Adet",
+    "min_price": 441.61,
+    "max_price": 441.61,
+    "last_price": 441.61,
+    "ts": 1795066465.5
+  },
+  "B0HBCJVW6M": {
+    "title": "Fellas Çikolata Kaplı HighPro+ Protein Bar (50 g) Karma Kutu",
+    "min_price": 626.26,
+    "max_price": 626.26,
+    "last_price": 626.26,
+    "ts": 1795066465.5
+  },
+  "B01GD0KZSC": {
+    "title": "Nutella Kakaolu Fındık Kreması 750 Gr | Glutensiz",
+    "min_price": 265.0,
+    "max_price": 265.0,
+    "last_price": 265.0,
+    "ts": 1795066465.5
+  },
+  "B08HL9HQ9J": {
+    "title": "Julius Meinl Premium Collection Espresso Arabica Çekirdek 50",
+    "min_price": 677.03,
+    "max_price": 677.03,
+    "last_price": 677.03,
+    "ts": 1795066465.4
+  },
+  "B0GXFQGZ99": {
+    "title": "Züber Nutzilla Fındık Kreması 315g x 1 Adet",
+    "min_price": 375.0,
+    "max_price": 375.0,
+    "last_price": 375.0,
+    "ts": 1795066465.4
+  },
+  "B0C3RMKZ53": {
+    "title": "Eti Lifalif Yulaf Ezmesi 950 g",
+    "min_price": 115.0,
+    "max_price": 115.0,
+    "last_price": 115.0,
+    "ts": 1795066465.4
+  },
+  "B08YK122XS": {
+    "title": "Eti Crax Sade Çubuk Kraker 40 g x 34 Adet",
+    "min_price": 232.0,
+    "max_price": 232.58,
+    "last_price": 232.0,
+    "ts": 1795066465.4
+  },
+  "B009PIIP82": {
+    "title": "Julius Meinl Präsident Blend Öğütülmüş Filtre Kahve, Orta Ka",
+    "min_price": 249.0,
+    "max_price": 249.0,
+    "last_price": 249.0,
+    "ts": 1795066465.3
+  },
+  "B08YK1R94F": {
+    "title": "Eti Puf Hindistan Cevizli Bisküvi 16 g x 48 Adet",
+    "min_price": 242.0,
+    "max_price": 242.0,
+    "last_price": 242.0,
+    "ts": 1795066465.3
+  },
+  "B00N3VWV46": {
+    "title": "Julius Meinl President Blend Öğütülmüş Filtre Kahve, 220 Gra",
+    "min_price": 1910.64,
+    "max_price": 1910.64,
+    "last_price": 1910.64,
+    "ts": 1795066463.9
   },
   "B0HLS8B1HR": {
     "title": "Bitter Çikolata 42g x 6 Adet",
     "min_price": 529.78,
     "max_price": 529.78,
     "last_price": 529.78,
-    "ts": 1795038320.5
+    "ts": 1795066463.8
+  },
+  "B08YJTBB55": {
+    "title": "Eti Topkek Meyveli Kek 40 g x 24 Adet",
+    "min_price": 219.06,
+    "max_price": 219.06,
+    "last_price": 219.06,
+    "ts": 1795066463.8
+  },
+  "B0D2V9PCGH": {
+    "title": "Julius Meinl Originals Red Door Bean Çekirdek Kahve 1 Kg",
+    "min_price": 1479.22,
+    "max_price": 1479.22,
+    "last_price": 1479.22,
+    "ts": 1795066463.8
+  },
+  "B003WVNGAA": {
+    "title": "Julius Meinl Jubilaeum 500 g Çekirdek Kahve",
+    "min_price": 583.14,
+    "max_price": 583.14,
+    "last_price": 583.14,
+    "ts": 1795066463.7
+  },
+  "B0FTMPQWSV": {
+    "title": "PUMA ST Track Koşu AyakkabısısıUnisex Yetişkin",
+    "min_price": 2784.43,
+    "max_price": 3277.9,
+    "last_price": 2784.43,
+    "ts": 1795066462.0
+  },
+  "B0FVSJW1YF": {
+    "title": "Tonny Black Kadın İçi Kürklü Süet Görünümlü Bot Kalın Poli T",
+    "min_price": 549.97,
+    "max_price": 549.97,
+    "last_price": 549.97,
+    "ts": 1795066462.0
+  },
+  "B0HCP2TQBB": {
+    "title": "Amazon spor ayakkabı Ürünü",
+    "min_price": 2999.25,
+    "max_price": 2999.25,
+    "last_price": 2999.25,
+    "ts": 1795066461.9
+  },
+  "B0CYNFRMPQ": {
+    "title": "adidas Unisex Yetişkin PREDATOR CLUB",
+    "min_price": 2165.0,
+    "max_price": 2165.0,
+    "last_price": 2165.0,
+    "ts": 1795066461.9
+  },
+  "B0BYT9795H": {
+    "title": "Anthony Jackson 5'li Kutu Premium Klasik Erkek Atlet ALEXAND",
+    "min_price": 666.2,
+    "max_price": 688.95,
+    "last_price": 666.2,
+    "ts": 1795066458.9
+  },
+  "B0F3XPXR6T": {
+    "title": "Dagi Erkek Detaylı Uzun Kollu Tişört Pantolon Pijama Takımı ",
+    "min_price": 1234.96,
+    "max_price": 1234.96,
+    "last_price": 1234.96,
+    "ts": 1795066458.9
+  },
+  "B0CRJ1K44P": {
+    "title": "SONNORS 3 Çift Erkek Çorap - Uzun Havlu Kışlık Outdoor Kamp ",
+    "min_price": 375.0,
+    "max_price": 375.0,
+    "last_price": 375.0,
+    "ts": 1795066458.9
+  },
+  "B0HMJ1PCM8": {
+    "title": "Kadın Taş Kaban 50328198 VR049",
+    "min_price": 3612.48,
+    "max_price": 3612.48,
+    "last_price": 3612.48,
+    "ts": 1795066457.6
+  },
+  "B0DYK1RJJG": {
+    "title": "Levi's 502 Taper Kot Pantolon Erkek",
+    "min_price": 2659.93,
+    "max_price": 2659.93,
+    "last_price": 2659.93,
+    "ts": 1795066457.6
+  },
+  "B0DVZR9NRZ": {
+    "title": "Anthony Jackson Likralı 5'li Kutu Premium Uzun Paçalı Erkek ",
+    "min_price": 778.92,
+    "max_price": 778.92,
+    "last_price": 778.92,
+    "ts": 1795066457.6
+  },
+  "B0CB1V6FPF": {
+    "title": "Anthony Jackson Likralı 6'lı Kutu Premium Erkek Boxer Color",
+    "min_price": 696.92,
+    "max_price": 696.92,
+    "last_price": 696.92,
+    "ts": 1795066457.6
+  },
+  "B07PX4HYJ2": {
+    "title": "Tetra Yem Cichlid Granules 500 ml",
+    "min_price": 679.53,
+    "max_price": 679.53,
+    "last_price": 679.53,
+    "ts": 1795066455.9
+  },
+  "B0GCTDC98Q": {
+    "title": "ShgHome 2'li Paslanmaz Çelik Kesme/Doğrama Tahtası Seti (Büy",
+    "min_price": 1099.0,
+    "max_price": 1099.0,
+    "last_price": 1099.0,
+    "ts": 1795066455.8
+  },
+  "B071X985RV": {
+    "title": "Bialetti - Moka Express Italia: 1 Cup Ocak Üstü Espresso Piş",
+    "min_price": 1262.49,
+    "max_price": 1262.49,
+    "last_price": 1262.49,
+    "ts": 1795066455.8
+  },
+  "B0BWGC9J47": {
+    "title": "Bialetti Moka Pot Brikka 4 Cups",
+    "min_price": 2803.68,
+    "max_price": 2803.68,
+    "last_price": 2803.68,
+    "ts": 1795066455.7
+  },
+  "B0FQ9F3JTZ": {
+    "title": "Flowblue Yeni Nesil Ultra Sessiz Ve Ultra Hızlı Otomatik Dam",
+    "min_price": 1189.9,
+    "max_price": 1189.9,
+    "last_price": 1189.9,
+    "ts": 1795066455.6
+  },
+  "B0FPRJTF86": {
+    "title": "STANLEY Quencher H2.0 FlowState Tumbler 40oz Pipetli Termos ",
+    "min_price": 1694.96,
+    "max_price": 1694.96,
+    "last_price": 1694.96,
+    "ts": 1795066455.6
+  },
+  "B0CLV4PFTQ": {
+    "title": "BRITA Maxtra Pro Kireç Uzmanı Yedek Su Arıtma Filtresi, 3'lü",
+    "min_price": 747.57,
+    "max_price": 747.57,
+    "last_price": 747.57,
+    "ts": 1795066455.6
+  },
+  "B0F5WVJZ82": {
+    "title": "Stanley The Aerolight Transit Mug Termos Bardak",
+    "min_price": 1499.0,
+    "max_price": 1649.0,
+    "last_price": 1499.0,
+    "ts": 1795066455.5
+  },
+  "B0CLNZ4NPV": {
+    "title": "BRITA MAXTRA PRO Pure Performance Yedek Su Arıtma Filtresi, ",
+    "min_price": 1316.0,
+    "max_price": 1316.0,
+    "last_price": 1316.0,
+    "ts": 1795066455.5
+  },
+  "B0F32QM9G6": {
+    "title": "STANLEY Cafe To-Go Travel Mug 12oz Termos Bardak 0.35 Litre ",
+    "min_price": 1140.99,
+    "max_price": 1140.99,
+    "last_price": 1140.99,
+    "ts": 1795066455.5
+  },
+  "B0DHZZVRHV": {
+    "title": "Amazon  Ürünü",
+    "min_price": 337.22,
+    "max_price": 337.22,
+    "last_price": 337.22,
+    "ts": 1795066448.4
+  },
+  "B0BBRRP1FT": {
+    "title": "DURU LUX PERFUMES Jasmin ve Amber Duş Jeli, 450 Mililitre",
+    "min_price": 112.0,
+    "max_price": 112.0,
+    "last_price": 112.0,
+    "ts": 1795066448.4
+  },
+  "B07F5YGFBT": {
+    "title": "Flormar Mat Bitişli Suya Dayanıklı Göz Kalemi (SİYAH) - Wate",
+    "min_price": 111.0,
+    "max_price": 111.0,
+    "last_price": 111.0,
+    "ts": 1795066448.4
+  },
+  "B0817ZGPM8": {
+    "title": "DURU Fresh Sensations Extra Çiçek Tazeliği, 150 Gramx4",
+    "min_price": 99.5,
+    "max_price": 103.19,
+    "last_price": 99.5,
+    "ts": 1795066448.3
+  },
+  "B0F9HV2WLR": {
+    "title": "Emotion Aqua Kiss Kadın Deodorant 200 ml",
+    "min_price": 125.89,
+    "max_price": 125.89,
+    "last_price": 125.89,
+    "ts": 1795066448.3
+  },
+  "B07JKHZWGG": {
+    "title": "PRIVACY Gold Women Sym Deodorant, 150 Mililitre",
+    "min_price": 119.59,
+    "max_price": 119.59,
+    "last_price": 119.59,
+    "ts": 1795066448.3
+  },
+  "B08P6257N5": {
+    "title": "Tadım Badem İçi Çiğ 180 Gr",
+    "min_price": 194.96,
+    "max_price": 194.96,
+    "last_price": 194.96,
+    "ts": 1795066448.3
+  },
+  "B0DN2LTNTY": {
+    "title": "ACTIVEX Sıvı Sabun Hassas,500 Ml",
+    "min_price": 97.55,
+    "max_price": 97.55,
+    "last_price": 97.55,
+    "ts": 1795066448.2
+  },
+  "B091HT6N5T": {
+    "title": "Amazon  Ürünü",
+    "min_price": 119.9,
+    "max_price": 119.9,
+    "last_price": 119.9,
+    "ts": 1795066448.2
+  },
+  "B0CXF6MBYG": {
+    "title": "Naturagen Vitamin D3 + K2 1000 IU 60 Kapsül | Glutensiz Kola",
+    "min_price": 336.9,
+    "max_price": 336.9,
+    "last_price": 336.9,
+    "ts": 1795066448.2
+  },
+  "B0817ZX327": {
+    "title": "Duru Fresh Sensations Okyanus Esintisi Duş Sabunu, 600 gr",
+    "min_price": 103.19,
+    "max_price": 103.19,
+    "last_price": 103.19,
+    "ts": 1795066448.1
+  },
+  "B0CV171GSB": {
+    "title": "VARTA Power on Demand Power Bank 10.000 mAh",
+    "min_price": 799.0,
+    "max_price": 799.0,
+    "last_price": 799.0,
+    "ts": 1795066448.1
+  },
+  "B0CLV7GMXT": {
+    "title": "BRITA MAXTRA Pro Kireç Uzmanı Yedek Su Arıtma Filtresi, 6’lı",
+    "min_price": 1297.49,
+    "max_price": 1307.3,
+    "last_price": 1297.49,
+    "ts": 1795066448.0
+  },
+  "B0D8ZVSLTK": {
+    "title": "SKG H5 Mini Taşınabilir Omuz ve Boyun Masaj Aleti, Shiatsu Y",
+    "min_price": 2499.0,
+    "max_price": 2499.0,
+    "last_price": 2499.0,
+    "ts": 1795066448.0
+  },
+  "B0BVVZMBC6": {
+    "title": "Finish Bulaşık Makinesi Parlatıcı & Kurtucu, Limon, 800ml + ",
+    "min_price": 415.52,
+    "max_price": 415.52,
+    "last_price": 415.52,
+    "ts": 1795066447.9
+  },
+  "B0CG8VMGTN": {
+    "title": "PRIVACY Addiction Man Edt 50 Ml Erkek Parfüm",
+    "min_price": 173.45,
+    "max_price": 173.45,
+    "last_price": 173.45,
+    "ts": 1795066447.9
   },
   "B0HGT1C4WD": {
     "title": "Prima Premium Care Külot Bez 7 Numara 24 Adet Bebek Bezi",
@@ -48,61 +769,12 @@
     "last_price": 469.0,
     "ts": 1795038317.6
   },
-  "B0B46PK8LD": {
-    "title": "Baseus Crystal Shine USB-A - Type-C Hızlı Şarj Veri Kablosu ",
-    "min_price": 249.0,
-    "max_price": 249.0,
-    "last_price": 249.0,
-    "ts": 1795038314.6
-  },
-  "B0BVZXXK7L": {
-    "title": "Tchibo Professional Espresso Çekirdek Kahve 2 Adet 1kg",
-    "min_price": 1420.0,
-    "max_price": 1420.0,
-    "last_price": 1420.0,
-    "ts": 1795038308.6
-  },
   "B0DZD7JKKN": {
     "title": "ÜLKER Toffe Portakal Dolgulu Şeker, 1000 Gr",
     "min_price": 386.74,
     "max_price": 386.74,
     "last_price": 386.74,
     "ts": 1795038305.5
-  },
-  "B01M179NN1": {
-    "title": "Nutella Kakaolu Fındık Kreması 1 Kg",
-    "min_price": 319.0,
-    "max_price": 319.0,
-    "last_price": 319.0,
-    "ts": 1795038302.4
-  },
-  "B009PIIMXA": {
-    "title": "Julius Meinl President Çekirdek Kahve, Orta Kavrulmuş, Class",
-    "min_price": 568.83,
-    "max_price": 568.83,
-    "last_price": 568.83,
-    "ts": 1795038302.3
-  },
-  "B0G6XDJ4BY": {
-    "title": "JACK & JONES",
-    "min_price": 369.0,
-    "max_price": 369.0,
-    "last_price": 369.0,
-    "ts": 1795038299.4
-  },
-  "B0DJ38KMWG": {
-    "title": "Ayakkabı Koku Önleyici Toz, 10 Adet",
-    "min_price": 132.5,
-    "max_price": 132.5,
-    "last_price": 132.5,
-    "ts": 1795038299.3
-  },
-  "B0FT1GP59D": {
-    "title": "Unisex Kontrast Dikişli Bere (Bonoca)",
-    "min_price": 704.88,
-    "max_price": 704.88,
-    "last_price": 704.88,
-    "ts": 1795038299.3
   },
   "B0HC2DTYK3": {
     "title": "Erkek 5'li Pamuklu Uzun Çorap C6692AXNS",
@@ -111,104 +783,6 @@
     "last_price": 275.99,
     "ts": 1795038299.2
   },
-  "B0BX386GRS": {
-    "title": "3'lü-4'lü Pamuklu Renkli Çizgili Fitilli Kolej Spor Erkek Ço",
-    "min_price": 262.43,
-    "max_price": 262.43,
-    "last_price": 262.43,
-    "ts": 1795038299.2
-  },
-  "B0CV7D9VGM": {
-    "title": "JACK & JONES",
-    "min_price": 324.0,
-    "max_price": 324.0,
-    "last_price": 324.0,
-    "ts": 1795038299.1
-  },
-  "B08PZCTMPR": {
-    "title": "2'li-4'lü Alpaka Yünlü Termal Kar Desen Kadın Erkek Çorap 30",
-    "min_price": 423.92,
-    "max_price": 423.92,
-    "last_price": 423.92,
-    "ts": 1795038299.0
-  },
-  "B0HC8J6MH5": {
-    "title": "Kadın 2'li Yün Kışlık Çorap H1542AXNS",
-    "min_price": 122.5,
-    "max_price": 124.0,
-    "last_price": 122.5,
-    "ts": 1795038299.0
-  },
-  "B0CLDPL3WP": {
-    "title": "ANTHONY JACKSON",
-    "min_price": 465.28,
-    "max_price": 491.92,
-    "last_price": 465.28,
-    "ts": 1795038298.9
-  },
-  "B0CK8MDN81": {
-    "title": "ANTHONY JACKSON",
-    "min_price": 666.2,
-    "max_price": 666.2,
-    "last_price": 666.2,
-    "ts": 1795038298.9
-  },
-  "B09987F63Z": {
-    "title": "ANTHONY JACKSON",
-    "min_price": 696.92,
-    "max_price": 696.92,
-    "last_price": 696.92,
-    "ts": 1795038298.8
-  },
-  "B08PZD22H9": {
-    "title": "3'lü Norveç Tipi Yünlü Kalın Moline Renkli Tam Havlulu Güçle",
-    "min_price": 449.93,
-    "max_price": 449.93,
-    "last_price": 449.93,
-    "ts": 1795038298.7
-  },
-  "B0FBX2KRYY": {
-    "title": "Tommy Hilfiger",
-    "min_price": 3179.77,
-    "max_price": 3179.77,
-    "last_price": 3179.77,
-    "ts": 1795038298.7
-  },
-  "B0BYTBT741": {
-    "title": "ANTHONY JACKSON",
-    "min_price": 666.2,
-    "max_price": 696.92,
-    "last_price": 666.2,
-    "ts": 1795038298.6
-  },
-  "B0CLM7M3V6": {
-    "title": "ANTHONY JACKSON",
-    "min_price": 503.27,
-    "max_price": 557.52,
-    "last_price": 503.27,
-    "ts": 1795038298.6
-  },
-  "B0CLV7GMXT": {
-    "title": "BRITA MAXTRA Pro Kireç Uzmanı Yedek Su Arıtma Filtresi, 6’lı",
-    "min_price": 1297.49,
-    "max_price": 1307.3,
-    "last_price": 1297.49,
-    "ts": 1795038295.6
-  },
-  "B0F5WVJZ82": {
-    "title": "Stanley The Aerolight Transit Mug Termos Bardak",
-    "min_price": 1499.0,
-    "max_price": 1649.0,
-    "last_price": 1499.0,
-    "ts": 1795038295.5
-  },
-  "B0CLNZ4NPV": {
-    "title": "BRITA MAXTRA PRO Pure Performance Yedek Su Arıtma Filtresi, ",
-    "min_price": 1316.0,
-    "max_price": 1316.0,
-    "last_price": 1316.0,
-    "ts": 1795038295.5
-  },
   "B07R479P64": {
     "title": "Ugreen 4 Portlu USB 3.0 Hub USB Çoklayıcı Adaptör",
     "min_price": 454.06,
@@ -216,61 +790,12 @@
     "last_price": 454.06,
     "ts": 1795038292.4
   },
-  "B0BFFT6NMG": {
-    "title": "Coverzone Çoklayıcı Adaptör 7in1 USB/Type-c To USB A, USB C ",
-    "min_price": 318.36,
-    "max_price": 318.36,
-    "last_price": 318.36,
-    "ts": 1795038292.4
-  },
-  "B088G18RVQ": {
-    "title": "Ugreen USB Type-C Şarj ve Data Kablosu, 1 Metre, Beyaz",
-    "min_price": 173.4,
-    "max_price": 173.4,
-    "last_price": 173.4,
-    "ts": 1795038292.3
-  },
-  "B0F3JSB8PX": {
-    "title": "Belkin 2'li Örgülü USB-C - USB-C Kablo, 1,5 m, 60 W – Yumuşa",
-    "min_price": 359.0,
-    "max_price": 359.0,
-    "last_price": 359.0,
-    "ts": 1795038292.3
-  },
-  "B0B46N4SK5": {
-    "title": "Baseus Crystal Shine 100W 120 cm PD Type-C Şarj Kablosu Siya",
-    "min_price": 300.0,
-    "max_price": 300.0,
-    "last_price": 300.0,
-    "ts": 1795038292.3
-  },
-  "B098K3H92Z": {
-    "title": "TP-Link UB500, Bluetooth 5.4 (PC dizüstü bilgisayar masaüstü",
-    "min_price": 289.0,
-    "max_price": 299.0,
-    "last_price": 289.0,
-    "ts": 1795038292.2
-  },
   "B08Q696YQX": {
     "title": "Nesquik Kakaolu Süt 6'lı Paket (6 x 180 ml)",
     "min_price": 99.99,
     "max_price": 99.99,
     "last_price": 99.99,
     "ts": 1795038289.2
-  },
-  "B07NS2N7DN": {
-    "title": "LindoCat Lindo Cat Bebek Pudralı İnce Taneli Kedi Kumu 5 Lit",
-    "min_price": 151.88,
-    "max_price": 151.88,
-    "last_price": 151.88,
-    "ts": 1795038289.1
-  },
-  "B0005Z6ZK4": {
-    "title": "Nutella Kakaolu Fındık Kreması 400 Gr",
-    "min_price": 140.0,
-    "max_price": 140.0,
-    "last_price": 140.0,
-    "ts": 1795038289.0
   },
   "B09SB9P5QZ": {
     "title": "Parodontax Diş Eti Bakımı Beyazlatıcı Diş Macunu 75 ml x 2 A",
@@ -314,27 +839,6 @@
     "last_price": 145.97,
     "ts": 1795038288.8
   },
-  "6051984445": {
-    "title": "Gece Yarısı Treni",
-    "min_price": 199.99,
-    "max_price": 199.99,
-    "last_price": 199.99,
-    "ts": 1795038288.7
-  },
-  "B09P6RDV84": {
-    "title": "Duru Limon Traditional 900 ml",
-    "min_price": 108.6,
-    "max_price": 108.6,
-    "last_price": 108.6,
-    "ts": 1795038287.4
-  },
-  "B07JMWKZ13": {
-    "title": "Schwarzkopf Men Perfect Saç Boyası 80 - Kahve Siyah, 80 Ml",
-    "min_price": 199.9,
-    "max_price": 199.9,
-    "last_price": 199.9,
-    "ts": 1795038287.4
-  },
   "B07HRZT2KK": {
     "title": "Dermoskin Ato Probiyotik Balm 1 Paket (1 X 230 Ml)",
     "min_price": 488.0,
@@ -356,20 +860,6 @@
     "last_price": 1843.2,
     "ts": 1795038285.5
   },
-  "B0D8ZVSLTK": {
-    "title": "SKG H5 Mini Taşınabilir Omuz ve Boyun Masaj Aleti, Shiatsu Y",
-    "min_price": 2499.0,
-    "max_price": 2499.0,
-    "last_price": 2499.0,
-    "ts": 1795038285.5
-  },
-  "B0DXP9L6NN": {
-    "title": "Oral-B iO Ultimate Clean Siyah Diş Fırçası Yedek Başlığı 4 A",
-    "min_price": 974.0,
-    "max_price": 974.0,
-    "last_price": 974.0,
-    "ts": 1795038284.0
-  },
   "B06XHJ4NMJ": {
     "title": "Opalescence Beyazlatıcı Diş Macunu, Sensitivity Relief 133 g",
     "min_price": 448.9,
@@ -383,20 +873,6 @@
     "max_price": 900.0,
     "last_price": 900.0,
     "ts": 1795038282.2
-  },
-  "B09HRWCSR1": {
-    "title": "Fellas Protein Bar, Karma Kutu (3 Çeşit), 32gr x 12 Adet",
-    "min_price": 441.61,
-    "max_price": 441.61,
-    "last_price": 441.61,
-    "ts": 1795038282.1
-  },
-  "B08HL9HQ9J": {
-    "title": "Julius Meinl Premium Collection Espresso Arabica Çekirdek 50",
-    "min_price": 677.03,
-    "max_price": 677.03,
-    "last_price": 677.03,
-    "ts": 1795038282.1
   },
   "B0DPN4Y57N": {
     "title": "Züber Peanutzilla Kakaolu Fıstık Kreması X 3 Adet",
@@ -412,33 +888,12 @@
     "last_price": 1015.0,
     "ts": 1795038282.0
   },
-  "B08SF1N3SR": {
-    "title": "Dardanel Zeytinyağlı Ton Balığı 3x75 gr",
-    "min_price": 263.97,
-    "max_price": 263.97,
-    "last_price": 263.97,
-    "ts": 1795038282.0
-  },
   "B0HLSB82FQ": {
     "title": "Sütlü Çikolata 42g x 6 Adet",
     "min_price": 529.78,
     "max_price": 529.78,
     "last_price": 529.78,
     "ts": 1795038281.9
-  },
-  "B0GXFQGZ99": {
-    "title": "Züber Nutzilla Fındık Kreması 315g x 1 Adet",
-    "min_price": 375.0,
-    "max_price": 375.0,
-    "last_price": 375.0,
-    "ts": 1795038281.9
-  },
-  "B009PIIP82": {
-    "title": "Julius Meinl Präsident Blend Öğütülmüş Filtre Kahve, Orta Ka",
-    "min_price": 249.0,
-    "max_price": 249.0,
-    "last_price": 249.0,
-    "ts": 1795038281.8
   },
   "B0711XB57Q": {
     "title": "Jacobs Espresso 10 Intenso Nespresso Uyumlu Alüminyum Kapsül",
@@ -454,32 +909,11 @@
     "last_price": 999.0,
     "ts": 1795038281.8
   },
-  "B0HBCJVW6M": {
-    "title": "Fellas Çikolata Kaplı HighPro+ Protein Bar (50 g) Karma Kutu",
-    "min_price": 626.26,
-    "max_price": 626.26,
-    "last_price": 626.26,
-    "ts": 1795038281.7
-  },
-  "B0177IQTXO": {
-    "title": "Ferrero Rocher Çikolata 16'lı 200 Gr",
-    "min_price": 259.0,
-    "max_price": 279.0,
-    "last_price": 259.0,
-    "ts": 1795038280.4
-  },
   "B092SYKX19": {
     "title": "Eti Popkek Çikolatalı Kek 60 g x 24 Adet Kahverengi",
     "min_price": 329.0,
     "max_price": 329.0,
     "last_price": 329.0,
-    "ts": 1795038280.4
-  },
-  "B08YJTBB55": {
-    "title": "Eti Topkek Meyveli Kek 40 g x 24 Adet",
-    "min_price": 219.06,
-    "max_price": 219.06,
-    "last_price": 219.06,
     "ts": 1795038280.4
   },
   "B0FH7CBN15": {
@@ -545,13 +979,6 @@
     "last_price": 491.92,
     "ts": 1795038274.8
   },
-  "B0CB1XBWY2": {
-    "title": "Anthony Jackson Likralı 6'lı Kutu Premium Erkek Boxer Color",
-    "min_price": 620.12,
-    "max_price": 696.92,
-    "last_price": 620.12,
-    "ts": 1795038273.5
-  },
   "B0DC161HN1": {
     "title": "Anthony Jackson 3'lü Kutu Premium Erkek Tişört Starlight",
     "min_price": 811.72,
@@ -580,26 +1007,12 @@
     "last_price": 1699.0,
     "ts": 1795038271.5
   },
-  "B0FPRJTF86": {
-    "title": "STANLEY Quencher H2.0 FlowState Tumbler 40oz Pipetli Termos ",
-    "min_price": 1694.96,
-    "max_price": 1694.96,
-    "last_price": 1694.96,
-    "ts": 1795038271.5
-  },
   "B0GQH74G18": {
     "title": "STANLEY Quencher H2.0 FlowState Tumbler 40oz Pipetli Termos ",
     "min_price": 1403.44,
     "max_price": 1559.38,
     "last_price": 1403.44,
     "ts": 1795038271.4
-  },
-  "B0F32QM9G6": {
-    "title": "STANLEY Cafe To-Go Travel Mug 12oz Termos Bardak 0.35 Litre ",
-    "min_price": 1140.99,
-    "max_price": 1140.99,
-    "last_price": 1140.99,
-    "ts": 1795038271.3
   },
   "B0BDLLD2G9": {
     "title": "Julius Meinl Trend Collection Coffee Crema Intenso Çekirdek ",
@@ -657,13 +1070,6 @@
     "last_price": 111.0,
     "ts": 1795038264.1
   },
-  "B0DN2LTNTY": {
-    "title": "ACTIVEX Sıvı Sabun Hassas,500 Ml",
-    "min_price": 97.55,
-    "max_price": 97.55,
-    "last_price": 97.55,
-    "ts": 1795038264.1
-  },
   "B0BD688JMX": {
     "title": "Dardanel Zeytinyağlı Ton Balığı 2x140 gr",
     "min_price": 279.0,
@@ -678,26 +1084,12 @@
     "last_price": 293.0,
     "ts": 1795038264.0
   },
-  "B01GD0KZSC": {
-    "title": "Nutella Kakaolu Fındık Kreması 750 Gr | Glutensiz",
-    "min_price": 265.0,
-    "max_price": 265.0,
-    "last_price": 265.0,
-    "ts": 1795038263.9
-  },
   "B0C4PNQY59": {
     "title": "Terrex Ax4 Shoes - Low (Non Football) Erkek",
     "min_price": 3600.0,
     "max_price": 3900.0,
     "last_price": 3600.0,
     "ts": 1795034778.4
-  },
-  "B0C3RMKZ53": {
-    "title": "Eti Lifalif Yulaf Ezmesi 950 g",
-    "min_price": 115.0,
-    "max_price": 115.0,
-    "last_price": 115.0,
-    "ts": 1795034768.7
   },
   "B09VXWQTLT": {
     "title": "Amazon market mutfak Ürünü",
@@ -825,13 +1217,6 @@
     "last_price": 1350.65,
     "ts": 1795034751.7
   },
-  "B0H6VLP7YS": {
-    "title": "Opalescence Beyazlatıcı Diş Macunu, Cool Mint aromalı 133 g ",
-    "min_price": 479.1,
-    "max_price": 479.2,
-    "last_price": 479.1,
-    "ts": 1795034747.4
-  },
   "B0DMTJ6472": {
     "title": "Fashcolle Black Star Işıklı - Masaj Özellikli Oyuncu Koltuğu",
     "min_price": 3799.0,
@@ -846,26 +1231,12 @@
     "last_price": 3650.0,
     "ts": 1795034745.7
   },
-  "B091HT6N5T": {
-    "title": "Amazon  Ürünü",
-    "min_price": 119.9,
-    "max_price": 119.9,
-    "last_price": 119.9,
-    "ts": 1795034744.3
-  },
   "B0CX23929Q": {
     "title": "Apple USB-C - Lightning Kablosu (1 m) ​​​​​​​",
     "min_price": 449.1,
     "max_price": 449.1,
     "last_price": 449.1,
     "ts": 1795031458.7
-  },
-  "B07J46P36P": {
-    "title": "Trendline Kuzu Etli Yetişkin Kedi Maması 1 kg",
-    "min_price": 137.94,
-    "max_price": 172.43,
-    "last_price": 137.94,
-    "ts": 1795031455.8
   },
   "B08279HLKG": {
     "title": "ÜLKER Finger Sade Bisküvi, 750 Gr",
@@ -881,20 +1252,6 @@
     "last_price": 149.0,
     "ts": 1795031455.6
   },
-  "B0976Y733H": {
-    "title": "Fairy Profesyonel Sıvı Bulaşık Deterjanı Elde Yıkama Limon K",
-    "min_price": 199.0,
-    "max_price": 199.0,
-    "last_price": 199.0,
-    "ts": 1795031455.5
-  },
-  "B08F7RSPZ4": {
-    "title": "PANTENE Onarıcı & Koruyucu 3'ü 1 Arada Şampuan 400 ml",
-    "min_price": 119.0,
-    "max_price": 119.0,
-    "last_price": 119.0,
-    "ts": 1795031454.0
-  },
   "B0CMMJNJPK": {
     "title": "Sütas Dilimli Yayık Tereyağı 1000 g x 2 adet",
     "min_price": 1599.0,
@@ -908,13 +1265,6 @@
     "max_price": 900.0,
     "last_price": 900.0,
     "ts": 1795031448.1
-  },
-  "B003WVNGAA": {
-    "title": "Julius Meinl Jubilaeum 500 g Çekirdek Kahve",
-    "min_price": 583.14,
-    "max_price": 583.14,
-    "last_price": 583.14,
-    "ts": 1795031446.4
   },
   "B0837957YK": {
     "title": "CAMPER K100373-019 Spor AyakkabıErkek",
@@ -965,13 +1315,6 @@
     "last_price": 1180.0,
     "ts": 1795031431.9
   },
-  "B0817ZGPM8": {
-    "title": "DURU Fresh Sensations Extra Çiçek Tazeliği, 150 Gramx4",
-    "min_price": 99.5,
-    "max_price": 103.19,
-    "last_price": 99.5,
-    "ts": 1795031430.5
-  },
   "B003OAPQCA": {
     "title": "TePe Select Diş Fırçası, Orta Boy, 1 Adet | Konik Fırça Başı",
     "min_price": 227.99,
@@ -1014,13 +1357,6 @@
     "last_price": 138.7,
     "ts": 1795027500.5
   },
-  "B0B558RJM4": {
-    "title": "3'lü-4'lü Pamuklu Renkli Çizgili Fitilli Kolej Spor Kadın Ço",
-    "min_price": 322.43,
-    "max_price": 322.43,
-    "last_price": 322.43,
-    "ts": 1795027471.7
-  },
   "B0DHXYL1PX": {
     "title": "Babilden iPhone 16 İle Uyumlu Ekran Koruyucu Hizalama Aparat",
     "min_price": 189.0,
@@ -1055,13 +1391,6 @@
     "max_price": 209.9,
     "last_price": 174.9,
     "ts": 1795027455.8
-  },
-  "B08MXSBRSB": {
-    "title": "WaterWipes Yeni Doğan & Hassas Ciltler için 720 Yaprak Bebek",
-    "min_price": 2719.0,
-    "max_price": 2864.68,
-    "last_price": 2719.2,
-    "ts": 1795027454.1
   },
   "B0DXPHR4PQ": {
     "title": "Oral-B iO Radiant White Beyaz Diş Fırçası Yedek Başlığı 4 Ad",
@@ -1140,13 +1469,6 @@
     "last_price": 3514.5,
     "ts": 1795027432.1
   },
-  "B0817ZX327": {
-    "title": "Duru Fresh Sensations Okyanus Esintisi Duş Sabunu, 600 gr",
-    "min_price": 103.19,
-    "max_price": 103.19,
-    "last_price": 103.19,
-    "ts": 1795027432.1
-  },
   "B0GYSZMQFK": {
     "title": "Prima Bebek Bezi Aktif Bebek Mega Fırsat Paketi 3 Beden 116 ",
     "min_price": 679.2,
@@ -1160,13 +1482,6 @@
     "max_price": 3099.5,
     "last_price": 3099.5,
     "ts": 1795024339.0
-  },
-  "B0GS36DDLB": {
-    "title": "Doldurulabilir Mini Parfüm Şişesi 5 Ml - Cep Parfüm Şişesi",
-    "min_price": 61.0,
-    "max_price": 61.0,
-    "last_price": 61.0,
-    "ts": 1795024326.6
   },
   "B0CS9RL8Z4": {
     "title": "Babilden iPhone 12 / 12 Pro İle Uyumlu Ekran Koruyucu Hizala",
@@ -1217,13 +1532,6 @@
     "last_price": 641.9,
     "ts": 1795024309.4
   },
-  "B0BYT9795H": {
-    "title": "Anthony Jackson 5'li Kutu Premium Klasik Erkek Atlet ALEXAND",
-    "min_price": 666.2,
-    "max_price": 688.95,
-    "last_price": 666.2,
-    "ts": 1795024302.4
-  },
   "B0FVM89JY6": {
     "title": "KAFT Erkek Basic Regular Sweatshirt (Ruga)",
     "min_price": 1972.08,
@@ -1265,13 +1573,6 @@
     "max_price": 197.56,
     "last_price": 197.56,
     "ts": 1795020899.8
-  },
-  "B0FTTF1CPG": {
-    "title": "ANTHONY JACKSON",
-    "min_price": 778.92,
-    "max_price": 778.92,
-    "last_price": 778.92,
-    "ts": 1795020899.7
   },
   "B09YMJBLXT": {
     "title": "Yayla Basmati Pirinç 1 Kg",
@@ -1623,13 +1924,6 @@
     "last_price": 214.99,
     "ts": 1794834533.1
   },
-  "B0D2V9PCGH": {
-    "title": "Julius Meinl Originals Red Door Bean Çekirdek Kahve 1 Kg",
-    "min_price": 1479.22,
-    "max_price": 1479.22,
-    "last_price": 1479.22,
-    "ts": 1794834529.8
-  },
   "B0CN733719": {
     "title": "Kahve Dünyası Lavi Karışık Dolgulu Çikolata 1kg",
     "min_price": 643.5,
@@ -1749,13 +2043,6 @@
     "last_price": 699.0,
     "ts": 1794834518.5
   },
-  "B0CV171GSB": {
-    "title": "VARTA Power on Demand Power Bank 10.000 mAh",
-    "min_price": 799.0,
-    "max_price": 799.0,
-    "last_price": 799.0,
-    "ts": 1794834508.8
-  },
   "B0CYCP7CBK": {
     "title": "Karaca Seal & Fresh Inox Vakum Makinesi Vs2202",
     "min_price": 2398.99,
@@ -1769,13 +2056,6 @@
     "max_price": 570.0,
     "last_price": 570.0,
     "ts": 1794823282.4
-  },
-  "B00NZEFU9Y": {
-    "title": "BRITA Flow 1x Maxtra Pro All-In-1 Filtreli Su Arıtma Sebili ",
-    "min_price": 1699.15,
-    "max_price": 1699.15,
-    "last_price": 1699.15,
-    "ts": 1794823279.2
   },
   "B0HDXM6XCB": {
     "title": "DeFacto Regular Fıt 3'lü Boxer",
@@ -1825,13 +2105,6 @@
     "max_price": 706.14,
     "last_price": 706.14,
     "ts": 1794823242.5
-  },
-  "B00N3VWV46": {
-    "title": "Julius Meinl President Blend Öğütülmüş Filtre Kahve, 220 Gra",
-    "min_price": 1910.64,
-    "max_price": 1910.64,
-    "last_price": 1910.64,
-    "ts": 1794823242.2
   },
   "B071SCWTCK": {
     "title": "Jacobs Lungo 8 Intenso Nespresso Uyumlu Alüminyum Kapsül Kah",
@@ -1994,13 +2267,6 @@
     "last_price": 124.0,
     "ts": 1794812652.6
   },
-  "B0CXF6MBYG": {
-    "title": "Naturagen Vitamin D3 + K2 1000 IU 60 Kapsül | Glutensiz Kola",
-    "min_price": 336.9,
-    "max_price": 336.9,
-    "last_price": 336.9,
-    "ts": 1794812652.5
-  },
   "B0BWN347D5": {
     "title": "DURU Sıvı Sabun, Okyanus Gold, 1.5 Litre",
     "min_price": 182.57,
@@ -2154,13 +2420,6 @@
     "max_price": 2699.0,
     "last_price": 2699.0,
     "ts": 1794771461.5
-  },
-  "B0FS77LJ4T": {
-    "title": "Fellas Performance Kurabiye Aromalı Whey Protein 525g",
-    "min_price": 909.9,
-    "max_price": 909.9,
-    "last_price": 909.9,
-    "ts": 1794771451.7
   },
   "B0GGKD68JD": {
     "title": "Jack & Jones JCOFUSION LOCK JACKET",
@@ -2407,13 +2666,6 @@
     "last_price": 1402.5,
     "ts": 1794762507.1
   },
-  "B0CLV4PFTQ": {
-    "title": "BRITA Maxtra Pro Kireç Uzmanı Yedek Su Arıtma Filtresi, 3'lü",
-    "min_price": 747.57,
-    "max_price": 747.57,
-    "last_price": 747.57,
-    "ts": 1794762505.5
-  },
   "B0CGX2PK93": {
     "title": "DURU Fresh Sensations Ocean Sabun, 100 Gramx4",
     "min_price": 95.35,
@@ -2477,13 +2729,6 @@
     "last_price": 196.7,
     "ts": 1794755411.2
   },
-  "B07KCXFBCF": {
-    "title": "Ariel Dağ Esintisi Beyazlar Toz Çamaşır Deterjanı 4.5 Kg 30 ",
-    "min_price": 349.0,
-    "max_price": 349.0,
-    "last_price": 349.0,
-    "ts": 1794755410.8
-  },
   "B0FK5GYD2H": {
     "title": "Anthony Jackson Erkek Rahat Slim Fit Jogger Eşofman Altı LUN",
     "min_price": 696.92,
@@ -2518,13 +2763,6 @@
     "max_price": 235.36,
     "last_price": 235.36,
     "ts": 1794749218.0
-  },
-  "B0F6C91BZJ": {
-    "title": "L'Oreal Paris Elseve Mucizevi Yağ Besleyici Bakım Şampuanı 4",
-    "min_price": 99.0,
-    "max_price": 99.0,
-    "last_price": 99.0,
-    "ts": 1794749204.0
   },
   "B07KCX4LTT": {
     "title": "Finish Bulaşık Makinesi Parlatıcı & Kurutucu (1 x 800 ml)",
@@ -2911,13 +3149,6 @@
     "last_price": 102.15,
     "ts": 1794729415.7
   },
-  "B0F9HV2WLR": {
-    "title": "Emotion Aqua Kiss Kadın Deodorant 200 ml",
-    "min_price": 125.89,
-    "max_price": 125.89,
-    "last_price": 125.89,
-    "ts": 1794729415.6
-  },
   "B0GTW1KJ9N": {
     "title": "7Go 7Gmf1 Şarjlı Ağız Duşu (Water Flosser) – 300Ml Su Haznes",
     "min_price": 999.0,
@@ -2945,13 +3176,6 @@
     "max_price": 1039.0,
     "last_price": 1039.0,
     "ts": 1794721515.1
-  },
-  "B0BVVZMBC6": {
-    "title": "Finish Bulaşık Makinesi Parlatıcı & Kurtucu, Limon, 800ml + ",
-    "min_price": 415.52,
-    "max_price": 415.52,
-    "last_price": 415.52,
-    "ts": 1794721512.1
   },
   "B0FL2RVLCJ": {
     "title": "Red Bull Enerji İçeceği Wings Cup 24x250 ml",
@@ -3022,13 +3246,6 @@
     "max_price": 839.95,
     "last_price": 839.95,
     "ts": 1794721486.8
-  },
-  "B0FTMPQWSV": {
-    "title": "PUMA ST Track Koşu AyakkabısısıUnisex Yetişkin",
-    "min_price": 2784.43,
-    "max_price": 3277.9,
-    "last_price": 2784.43,
-    "ts": 1794721483.2
   },
   "B0FQ9YRZLJ": {
     "title": "Tonny Black Unisex Termo Taban Yanı Şeritli Bağcıklı Spor Ay",
@@ -3589,13 +3806,6 @@
     "max_price": 149.0,
     "last_price": 149.0,
     "ts": 1794655681.4
-  },
-  "B07JHGQHVD": {
-    "title": "Oral-B Pro Series 1 Pembe Elektrikli Diş Fırçası, 1 Diş Fırç",
-    "min_price": 1751.0,
-    "max_price": 1899.0,
-    "last_price": 1751.0,
-    "ts": 1794655677.6
   },
   "B08ZJLMNZS": {
     "title": "BIC Flex 5 Hybrid Tıraş Bıçağı Seti 1 Gövde + 10 Yedek Başlı",
@@ -6390,13 +6600,6 @@
     "last_price": 179.9,
     "ts": 1794384723.6
   },
-  "B08YK122XS": {
-    "title": "Eti Crax Sade Çubuk Kraker 40 g x 34 Adet",
-    "min_price": 232.0,
-    "max_price": 232.58,
-    "last_price": 232.0,
-    "ts": 1794384719.2
-  },
   "B08XZQPFH3": {
     "title": "Moliendo Finest Coffee Amalfi Espresso Blend Kahve (Çekirdek",
     "min_price": 990.0,
@@ -6446,13 +6649,6 @@
     "last_price": 235.83,
     "ts": 1794376211.6
   },
-  "B08YK1R94F": {
-    "title": "Eti Puf Hindistan Cevizli Bisküvi 16 g x 48 Adet",
-    "min_price": 242.0,
-    "max_price": 242.0,
-    "last_price": 242.0,
-    "ts": 1794376208.1
-  },
   "B0BZ7S2HG9": {
     "title": "adidas Adizero Boston 12 M Erkek Koşu Ayakkabısı",
     "min_price": 4086.75,
@@ -6486,13 +6682,6 @@
     "min_price": 1359.98,
     "max_price": 1359.98,
     "last_price": 1359.98,
-    "ts": 1794376201.7
-  },
-  "B0F3XPXR6T": {
-    "title": "Dagi Erkek Detaylı Uzun Kollu Tişört Pantolon Pijama Takımı ",
-    "min_price": 1234.96,
-    "max_price": 1234.96,
-    "last_price": 1234.96,
     "ts": 1794376201.7
   },
   "B0FTTL5K7B": {
@@ -6872,13 +7061,6 @@
     "max_price": 1755.99,
     "last_price": 1755.99,
     "ts": 1794335953.8
-  },
-  "B0DQ5JN1CC": {
-    "title": "Canped Emici Külot Ekstra Büyük (XL) 30 Adet",
-    "min_price": 779.9,
-    "max_price": 779.9,
-    "last_price": 779.9,
-    "ts": 1794335923.8
   },
   "B0DDXXPH4Y": {
     "title": "Bingo Akıllı Kapsül Pro Bulaşık Makinesi Deterjanı Tableti 5",
@@ -8448,13 +8630,6 @@
     "last_price": 696.92,
     "ts": 1794153743.5
   },
-  "B0CRJ1K44P": {
-    "title": "SONNORS 3 Çift Erkek Çorap - Uzun Havlu Kışlık Outdoor Kamp ",
-    "min_price": 375.0,
-    "max_price": 375.0,
-    "last_price": 375.0,
-    "ts": 1794153743.4
-  },
   "B0DVZSGJNQ": {
     "title": "Anthony Jackson Likralı 5'li Kutu Premium Uzun Paçalı Erkek ",
     "min_price": 696.92,
@@ -9533,13 +9708,6 @@
     "last_price": 764.98,
     "ts": 1793967551.3
   },
-  "B0DJWGQNBS": {
-    "title": "Dardanel Zeytinyağlı Çanakkale Sardalya, 125 gr",
-    "min_price": 100.0,
-    "max_price": 100.0,
-    "last_price": 100.0,
-    "ts": 1793967540.4
-  },
   "B0BJQK5742": {
     "title": "Amazon deterjan temizlik kişisel bakım Ürünü",
     "min_price": 278.16,
@@ -10330,173 +10498,5 @@
     "max_price": 1770.12,
     "last_price": 1770.12,
     "ts": 1793857871.1
-  },
-  "B0GPPNNZW1": {
-    "title": "JBL Go5, Bluetooth Hoparlör, IP68, Mor | Güçlü JBL Pro Ses, ",
-    "min_price": 2279.05,
-    "max_price": 2279.05,
-    "last_price": 2279.05,
-    "ts": 1793857867.6
-  },
-  "B0BZZH4H9P": {
-    "title": "Eti Gong Peynir ve Acı Aroma Çeşnili Mısır ve Pirinç Patlağı",
-    "min_price": 236.23,
-    "max_price": 236.23,
-    "last_price": 236.23,
-    "ts": 1793857867.4
-  },
-  "B07S9PTLNZ": {
-    "title": "RENPHO Dijital Banyo Terazileri Yüksek Hassasiyetli Sensörlü",
-    "min_price": 1399.0,
-    "max_price": 1399.0,
-    "last_price": 1399.0,
-    "ts": 1793857863.7
-  },
-  "B0HLWDJSDM": {
-    "title": "Erkek Açık Haki Bisiklet Yaka Regular Fit Basic Sweatshirt 5",
-    "min_price": 764.98,
-    "max_price": 764.98,
-    "last_price": 764.98,
-    "ts": 1793828553.4
-  },
-  "B0BL7KD3YK": {
-    "title": "PUMA Erkek/Unisex Trinity Mid Hybrid-Myrtle-Myrtle-PUMA Blac",
-    "min_price": 2999.5,
-    "max_price": 2999.5,
-    "last_price": 2999.5,
-    "ts": 1793828530.6
-  },
-  "B0G3LRGDXT": {
-    "title": "U.S. Polo Assn. Erkek Siyah Hırka (Örme) 50313779-VR046",
-    "min_price": 1019.98,
-    "max_price": 1019.98,
-    "last_price": 1019.98,
-    "ts": 1793828528.7
-  },
-  "B0GFF57G95": {
-    "title": "Anthony Jackson Düz Kumaş Slim Fit Klasik Erkek Pantolon Raf",
-    "min_price": 942.92,
-    "max_price": 942.92,
-    "last_price": 942.92,
-    "ts": 1793828528.7
-  },
-  "B0C46QFJN5": {
-    "title": "Dagi Erkek Basic Micro Modal 3'lü Boxer Beyaz S",
-    "min_price": 919.99,
-    "max_price": 919.99,
-    "last_price": 919.99,
-    "ts": 1793828528.6
-  },
-  "B0HMHT539B": {
-    "title": "Kadın Gri Basic Kazak 50327575 VR076",
-    "min_price": 1019.98,
-    "max_price": 1019.98,
-    "last_price": 1019.98,
-    "ts": 1793828528.6
-  },
-  "B0HLWGMPJF": {
-    "title": "Erkek Gri Dik Yaka Fermuarlı Cepli Mont 50328185 VR076",
-    "min_price": 2124.98,
-    "max_price": 2124.98,
-    "last_price": 2124.98,
-    "ts": 1793828527.3
-  },
-  "B08YK1C6QK": {
-    "title": "Eti Burçak Sütlü Kremalı Yulaflı Bisküvi 100 g x 12 Adet",
-    "min_price": 231.95,
-    "max_price": 231.95,
-    "last_price": 231.95,
-    "ts": 1793828517.1
-  },
-  "B0HGR2VPFN": {
-    "title": "Kadın Koyu Kahverengi Basic Kazak 50331602 VR084",
-    "min_price": 1104.98,
-    "max_price": 1104.98,
-    "last_price": 1104.98,
-    "ts": 1793825025.6
-  },
-  "B0FP4XN8MN": {
-    "title": "Stanley IceFlow Flip Straw Tumbler Pipetli Termos Bardak, 0.",
-    "min_price": 1299.0,
-    "max_price": 1299.0,
-    "last_price": 1299.0,
-    "ts": 1793825016.0
-  },
-  "B0FQPGNC6B": {
-    "title": "Elidor 7/24 Belirgin Bukleler Saç Bakım Kremi 240 Mililitre",
-    "min_price": 109.9,
-    "max_price": 109.9,
-    "last_price": 109.9,
-    "ts": 1793825005.5
-  },
-  "B0BL7JWDRN": {
-    "title": "PUMA Mayra Yüksek ÖnyüklemeKadın",
-    "min_price": 2849.5,
-    "max_price": 2849.5,
-    "last_price": 2849.5,
-    "ts": 1793825001.0
-  },
-  "B0H8Z9QQ31": {
-    "title": "Anthony Jackson 3'lü Kutu Premium Erkek V Tişört Moonlight",
-    "min_price": 802.6,
-    "max_price": 802.6,
-    "last_price": 802.6,
-    "ts": 1793824997.2
-  },
-  "6254102080": {
-    "title": "Kalan süre: 02:06",
-    "min_price": 413.1,
-    "max_price": 413.1,
-    "last_price": 413.1,
-    "ts": 1793824975.0
-  },
-  "B0F6D582W5": {
-    "title": "Aryıldız Protools 5 Parça Servis Seti",
-    "min_price": 1919.23,
-    "max_price": 1919.23,
-    "last_price": 1919.23,
-    "ts": 1793824975.0
-  },
-  "B0CPTFW3T1": {
-    "title": "Fisher-Price Imaginext Star Wars XXL The Mandalorian Figürü ",
-    "min_price": 1389.9,
-    "max_price": 1389.9,
-    "last_price": 1389.9,
-    "ts": 1793824974.9
-  },
-  "B0GN9PX932": {
-    "title": "Rosemary & Clove Biberiye ve Karanfil Canlandırıcı ve Güçlen",
-    "min_price": 484.9,
-    "max_price": 484.9,
-    "last_price": 484.9,
-    "ts": 1793824974.9
-  },
-  "B0BVLZZ6PK": {
-    "title": "Joy Room 2023 Telefon Tutucu Araba, [Asla Engellemeden Zevk]",
-    "min_price": 449.0,
-    "max_price": 449.0,
-    "last_price": 449.0,
-    "ts": 1793824974.8
-  },
-  "B085YBJT9R": {
-    "title": "Belkin Boost Charge Örgülü USB-C, Hızlı Şarj Cihazı, USB-C Ş",
-    "min_price": 219.0,
-    "max_price": 219.0,
-    "last_price": 219.0,
-    "ts": 1793824974.8
-  },
-  "B0G4HHWQ7P": {
-    "title": "Minesk G320 Turbo Jet Fan Hava Üfleyici - 【Turbo Modda 320 G",
-    "min_price": 2799.92,
-    "max_price": 2799.92,
-    "last_price": 2799.92,
-    "ts": 1793824974.7
-  },
-  "B0HNCVRSTC": {
-    "title": "U.S. Polo Assn. Rassa Erkek Outdoor Su Geçirmez Bot | Outdoo",
-    "min_price": 2998.25,
-    "max_price": 2998.25,
-    "last_price": 2998.25,
-    "ts": 1793821834.7
   }
 }
