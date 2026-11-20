@@ -1,12 +1,5 @@
 [
   {
-    "slug": "eti-browni-classic-ikolatal-f-nd-kl-kek-40-g-x-20-",
-    "title": "Eti Browni Classic Çikolatalı Fındıklı Kek 40 g x 20 Adet",
-    "category": "MARKET & KAHVE FIRSATI",
-    "status": "posted",
-    "ts": 1793788491.5692375
-  },
-  {
     "slug": "karaca-stark-2li-kesme-tahtas",
     "title": "Karaca Stark 2li Kesme Tahtası",
     "category": "MUTFAK & EV FIRSATI",
@@ -1048,5 +1041,12 @@
     "category": "TEKNOLOJİ & EKİPMAN FIRSATI",
     "status": "posted",
     "ts": 1795177665.9296303
+  },
+  {
+    "slug": "finish-ultimate-plus-limon-40-l",
+    "title": "Finish Ultimate Plus Limon 40'lı",
+    "category": "MARKET & TEMİZLİK FIRSATI",
+    "status": "posted",
+    "ts": 1795186196.6609347
   }
 ]
