@@ -1,12 +1,5 @@
 [
   {
-    "slug": "karcher-wv-1-plus-arjl-cam-temizleme-makinesi",
-    "title": "Karcher WV 1 Plus Şarjlı Cam Temizleme Makinesi",
-    "category": "YAPI & OTO FIRSATI",
-    "status": "posted",
-    "ts": 1793756143.52093
-  },
-  {
     "slug": "jbl-xtreme-5-bluetooth-hoparl-r-ip67-siyah-auracas",
     "title": "JBL Xtreme 5, Bluetooth Hoparlör, IP67, Siyah",
     "category": "SES & KULAKLIK",
@@ -1048,5 +1041,12 @@
     "category": "KİŞİSEL BAKIM FIRSATI",
     "status": "posted",
     "ts": 1795123331.3637974
+  },
+  {
+    "slug": "defacto-regular-fit-entik-yaka-cepli-d-meli-ka-e-k",
+    "title": "DeFacto Regular Fit Çentik Yaka Cepli Düğmeli Kaşe Kaban",
+    "category": "MODA & GİYİM FIRSATI",
+    "status": "posted",
+    "ts": 1795154185.8423066
   }
 ]
