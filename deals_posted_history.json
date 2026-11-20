@@ -1,12 +1,5 @@
 [
   {
-    "slug": "julius-meinl-geleneksel-ta-de-irmenlerde-t-lm-t-rk",
-    "title": "Julius Meinl Geleneksel Taş Değirmenlerde Öğütülmüş Türk Kahvesi, Orta Kavrulmuş, 100% Arabica, 250 Gram",
-    "category": "MARKET & KAHVE FIRSATI",
-    "status": "posted",
-    "ts": 1793807343.3298688
-  },
-  {
     "slug": "fusetea-eftali-aromal-so-uk-ay-kutu-6x330-ml",
     "title": "Fusetea Şeftali Aromalı Soğuk Çay Kutu 6x330 ml",
     "category": "MARKET & KAHVE FIRSATI",
@@ -1048,5 +1041,12 @@
     "category": "MODA & GİYİM FIRSATI",
     "status": "posted",
     "ts": 1795193582.1795824
+  },
+  {
+    "slug": "selpak-professional-touch-z-katl-ka-t-havlu-20x24",
+    "title": "Selpak Professional Touch Z Katlı Kağıt Havlu, 20x24",
+    "category": "MARKET & TEMİZLİK FIRSATI",
+    "status": "posted",
+    "ts": 1795197162.1175401
   }
 ]
