@@ -1,12 +1,5 @@
 [
   {
-    "slug": "fusetea-eftali-aromal-so-uk-ay-kutu-6x330-ml",
-    "title": "Fusetea Şeftali Aromalı Soğuk Çay Kutu 6x330 ml",
-    "category": "MARKET & KAHVE FIRSATI",
-    "status": "posted",
-    "ts": 1793810876.4728968
-  },
-  {
     "slug": "julius-meinl-espresso-crema-kaps-l-kahve-10-adet",
     "title": "Julius Meinl Espresso Crema Kapsül Kahve 10 Adet",
     "category": "MARKET & KAHVE FIRSATI",
@@ -1048,5 +1041,12 @@
     "category": "MARKET & TEMİZLİK FIRSATI",
     "status": "posted",
     "ts": 1795197162.1175401
+  },
+  {
+    "slug": "bosch-marangoz-kerpeteni-200mm",
+    "title": "Bosch Marangoz Kerpeteni 200mm",
+    "category": "MUTFAK & EV FIRSATI",
+    "status": "posted",
+    "ts": 1795201072.5350616
   }
 ]
