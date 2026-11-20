@@ -1,12 +1,5 @@
 [
   {
-    "slug": "julius-meinl-espresso-crema-kaps-l-kahve-10-adet",
-    "title": "Julius Meinl Espresso Crema Kapsül Kahve 10 Adet",
-    "category": "MARKET & KAHVE FIRSATI",
-    "status": "posted",
-    "ts": 1793814398.8601925
-  },
-  {
     "slug": "stopever-well-tooth-k-rdanl-di-i-pi-3-l-paket-nane",
     "title": "StopEver Well Tooth Kürdanlı Diş İpi 3'lü Paket | Nane Aromalı | 150 Adet (3 x 50) | Diş Arası Temizliği, Ağız Hijyeni ve Günlük Kullanım için İdeal",
     "category": "GÜNÜN FIRSATI",
@@ -1048,5 +1041,12 @@
     "category": "MUTFAK & EV FIRSATI",
     "status": "posted",
     "ts": 1795201072.5350616
+  },
+  {
+    "slug": "jack-jones-i-me-mont-12303930",
+    "title": "Jack & Jones Şişme Mont, 12303930",
+    "category": "MODA & GİYİM FIRSATI",
+    "status": "posted",
+    "ts": 1795204448.7464473
   }
 ]
