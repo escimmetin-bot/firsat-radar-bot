@@ -1,12 +1,5 @@
 [
   {
-    "slug": "julius-meinl-pr-sident-blend-t-lm-filtre-kahve-ort",
-    "title": "Julius Meinl Präsident Blend Öğütülmüş Filtre Kahve, Orta Kavrulmuş, Yumuşak İçim 220 g",
-    "category": "MARKET & KAHVE FIRSATI",
-    "status": "posted",
-    "ts": 1793821900.6254277
-  },
-  {
     "slug": "perwoll-yenileme-siyahlar-i-in-s-v-deterjan-54-y-k",
     "title": "Perwoll Yenileme Siyahlar için Sıvı Deterjan 54 Yıkama 2.97 Lt",
     "category": "MARKET & TEMİZLİK FIRSATI",
@@ -1048,5 +1041,12 @@
     "category": "MARKET & KAHVE FIRSATI",
     "status": "posted",
     "ts": 1795207408.0826805
+  },
+  {
+    "slug": "julius-meinl-jubilaum-t-lm-filtre-kahve-220-gram",
+    "title": "Julius Meinl Jubilaum Öğütülmüş Filtre Kahve 220 Gram",
+    "category": "MUTFAK & EV FIRSATI",
+    "status": "posted",
+    "ts": 1795210896.2534308
   }
 ]
