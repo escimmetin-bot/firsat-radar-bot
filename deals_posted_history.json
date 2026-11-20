@@ -1,12 +1,5 @@
 [
   {
-    "slug": "lego-star-wars-cumhuriyet-juggernaut-75413-klon-sa",
-    "title": "LEGO Star Wars Cumhuriyet Juggernaut 75413",
-    "category": "LEGO FIRSATI",
-    "status": "posted",
-    "ts": 1793771396.0245872
-  },
-  {
     "slug": "asus-rog-strix-xg248qsg-24-i-n-1080p-610hz-gaming-",
     "title": "ASUS ROG Strix XG248QSG 24 İnç 1080p 610Hz Gaming Monitör",
     "category": "BİLGİSAYAR & DONANIM",
@@ -1048,5 +1041,12 @@
     "category": "MARKET & TEMİZLİK FIRSATI",
     "status": "posted",
     "ts": 1795162738.058703
+  },
+  {
+    "slug": "philips-10-watt-led-ampul-2700k-sar-i-k-e27-normal",
+    "title": "Philips 10 Watt Led Ampul, 2700K Sarı Işık, E27 Normal Duy, 75 Watt Eşleniği",
+    "category": "MUTFAK & EV FIRSATI",
+    "status": "posted",
+    "ts": 1795170696.2948391
   }
 ]
