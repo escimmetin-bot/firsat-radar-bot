@@ -1,12 +1,5 @@
 [
   {
-    "slug": "stanley-iceflow-flip-straw-tumbler-pipetli-termos-",
-    "title": "Stanley IceFlow Flip Straw Tumbler Pipetli Termos Bardak, Siyah 2.0, 0.89 Litre",
-    "category": "MUTFAK & EV FIRSATI",
-    "status": "posted",
-    "ts": 1793857955.8348675
-  },
-  {
     "slug": "gillette-proglide-mnl-h-4-stand-sanity-t-ra-makine",
     "title": "Gillette PROGLIDE MNL H 4 Stand Sanity Tıraş Makinesi Siyah",
     "category": "KİŞİSEL BAKIM FIRSATI",
@@ -1048,5 +1041,12 @@
     "category": "MARKET & TEMİZLİK FIRSATI",
     "status": "posted",
     "ts": 1795247032.0043998
+  },
+  {
+    "slug": "bioderma-atoderm-shower-oil-kuru-cilt-nemlendirici",
+    "title": "Bioderma Atoderm Shower Oil Kuru Cilt Nemlendirici Besleyici Duş Yağı Niasinamid Bebek Çocuk Yetişkin 200 ml",
+    "category": "KİŞİSEL BAKIM FIRSATI",
+    "status": "posted",
+    "ts": 1795254103.701546
   }
 ]
