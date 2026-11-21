@@ -1,12 +1,5 @@
 [
   {
-    "slug": "activex-s-v-sabun-aktif-1-5-litre",
-    "title": "ACTIVEX Sıvı Sabun, Aktif, 1.5 Litre",
-    "category": "GÜNÜN FIRSATI",
-    "status": "posted",
-    "ts": 1793828593.136095
-  },
-  {
     "slug": "stanley-iceflow-flip-straw-tumbler-pipetli-termos-",
     "title": "Stanley IceFlow Flip Straw Tumbler Pipetli Termos Bardak, Siyah 2.0, 0.89 Litre",
     "category": "MUTFAK & EV FIRSATI",
@@ -1048,5 +1041,12 @@
     "category": "KİŞİSEL BAKIM FIRSATI",
     "status": "posted",
     "ts": 1795238715.9047172
+  },
+  {
+    "slug": "l-or-splendente-intensity-7-nespresso-uyumlu-al-mi",
+    "title": "L'OR Splendente Intensity 7 Nespresso Uyumlu Alüminyum Kapsül Kahve 10 Adet",
+    "category": "MARKET & TEMİZLİK FIRSATI",
+    "status": "posted",
+    "ts": 1795247032.0043998
   }
 ]
