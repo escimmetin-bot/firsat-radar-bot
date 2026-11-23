@@ -1,12 +1,5 @@
 [
   {
-    "slug": "jack-jones",
-    "title": "JACK & JONES Jjecharge Bomber Jacket Noos Bomber ceket Erkekler",
-    "category": "MODA & GİYİM FIRSATI",
-    "status": "posted",
-    "ts": 1794000718.0018032
-  },
-  {
     "slug": "persil-toz-s-k-y-kananlar-ama-r-deterjan-9-kilogra",
     "title": "Persil Toz Sık Yıkananlar Çamaşır Deterjanı 9 Kilogram 60 Yıkama, Sık Yıkananlar 9kg",
     "category": "MARKET & TEMİZLİK FIRSATI",
@@ -1048,5 +1041,12 @@
     "category": "MARKET & KAHVE FIRSATI",
     "status": "posted",
     "ts": 1795378554.4802854
+  },
+  {
+    "slug": "adidas-galaxy-7-w-y-r-y-ayakkab-s-kad-n",
+    "title": "adidas GALAXY 7 W Yürüyüş AyakkabısıKadın",
+    "category": "MODA & GİYİM FIRSATI",
+    "status": "posted",
+    "ts": 1795410441.118087
   }
 ]
