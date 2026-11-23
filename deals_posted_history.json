@@ -1,12 +1,5 @@
 [
   {
-    "slug": "dardanel-zeytinya-l-ton-bal-2x140-gr",
-    "title": "Dardanel Zeytinyağlı Ton Balığı 2x140 gr",
-    "category": "MARKET & KAHVE FIRSATI",
-    "status": "posted",
-    "ts": 1794037933.4608474
-  },
-  {
     "slug": "stanley-quencher-pipetli-termos-bardak-1-18-l",
     "title": "Stanley Quencher Pipetli Termos Bardak, 1.18 L",
     "category": "MUTFAK & EV FIRSATI",
@@ -1048,5 +1041,12 @@
     "category": "MODA & GİYİM FIRSATI",
     "status": "posted",
     "ts": 1795422419.9323926
+  },
+  {
+    "slug": "persil-toz-s-k-y-kananlar-ama-r-deterjan-9-kilogra",
+    "title": "Persil Toz Sık Yıkananlar Çamaşır Deterjanı 9 Kilogram 60 Yıkama, Sık Yıkananlar 9kg",
+    "category": "MARKET & TEMİZLİK FIRSATI",
+    "status": "posted",
+    "ts": 1795431578.9535615
   }
 ]
