@@ -1,12 +1,5 @@
 [
   {
-    "slug": "stanley-quencher-pipetli-termos-bardak-1-18-l",
-    "title": "Stanley Quencher Pipetli Termos Bardak, 1.18 L",
-    "category": "MUTFAK & EV FIRSATI",
-    "status": "posted",
-    "ts": 1794044301.6634862
-  },
-  {
     "slug": "opalescence-beyazlat-c-di-macunu-sensitivity-relie",
     "title": "Opalescence Beyazlatıcı Diş Macunu, Sensitivity Relief 133 g",
     "category": "KİŞİSEL BAKIM FIRSATI",
@@ -1048,5 +1041,12 @@
     "category": "MARKET & TEMİZLİK FIRSATI",
     "status": "posted",
     "ts": 1795431578.9535615
+  },
+  {
+    "slug": "mavi-jeans-antrasit-basic-ti-rt-loose-fit-bol-raha",
+    "title": "Mavi Jeans Antrasit Basic Tişört Loose Fit/Bol Rahat Kesim 0613681-70092",
+    "category": "MODA & GİYİM FIRSATI",
+    "status": "posted",
+    "ts": 1795438812.6352105
   }
 ]
