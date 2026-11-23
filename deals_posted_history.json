@@ -1,12 +1,5 @@
 [
   {
-    "slug": "persil-toz-s-k-y-kananlar-ama-r-deterjan-9-kilogra",
-    "title": "Persil Toz Sık Yıkananlar Çamaşır Deterjanı 9 Kilogram 60 Yıkama, Sık Yıkananlar 9kg",
-    "category": "MARKET & TEMİZLİK FIRSATI",
-    "status": "posted",
-    "ts": 1794030050.3496542
-  },
-  {
     "slug": "dardanel-zeytinya-l-ton-bal-2x140-gr",
     "title": "Dardanel Zeytinyağlı Ton Balığı 2x140 gr",
     "category": "MARKET & KAHVE FIRSATI",
@@ -1048,5 +1041,12 @@
     "category": "MODA & GİYİM FIRSATI",
     "status": "posted",
     "ts": 1795410441.118087
+  },
+  {
+    "slug": "jack-jones",
+    "title": "JACK & JONES JACREGEN TENNIS SOCK 5 PACK NOOS Çorap Erkek",
+    "category": "MODA & GİYİM FIRSATI",
+    "status": "posted",
+    "ts": 1795422419.9323926
   }
 ]
