@@ -1,12 +1,5 @@
 [
   {
-    "slug": "nescafe-dolce-gusto-americano-48-kaps-l-136-gr-x-3",
-    "title": "Nescafe Dolce Gusto Americano 48 Kapsül 136 Gr x 3",
-    "category": "MARKET & TEMİZLİK FIRSATI",
-    "status": "posted",
-    "ts": 1794163059.2442694
-  },
-  {
     "slug": "bej-regular-d-z-yar-m-bal-k-yaka-sweatshirt",
     "title": "Bej Regular Düz Yarım Balıkçı Yaka Sweatshirt",
     "category": "MODA & GİYİM FIRSATI",
@@ -1048,5 +1041,12 @@
     "category": "GÜNÜN FIRSATI",
     "status": "posted",
     "ts": 1795550198.4515865
+  },
+  {
+    "slug": "bepanthol-baby-pi-ik-nleyici-merhem-100-gr",
+    "title": "Bepanthol Baby Pişik Önleyici Merhem 100 gr",
+    "category": "GÜNÜN FIRSATI",
+    "status": "posted",
+    "ts": 1795553226.5521767
   }
 ]
