@@ -1,12 +1,5 @@
 [
   {
-    "slug": "julius-meinl-originals-red-door-bean-ekirdek-kahve",
-    "title": "Julius Meinl Originals Red Door Bean Çekirdek Kahve 1 Kg",
-    "category": "MARKET & KAHVE FIRSATI",
-    "status": "posted",
-    "ts": 1794157714.7643187
-  },
-  {
     "slug": "nescafe-dolce-gusto-americano-48-kaps-l-136-gr-x-3",
     "title": "Nescafe Dolce Gusto Americano 48 Kapsül 136 Gr x 3",
     "category": "MARKET & TEMİZLİK FIRSATI",
@@ -1048,5 +1041,12 @@
     "category": "TEKNOLOJİ & EKİPMAN FIRSATI",
     "status": "posted",
     "ts": 1795546217.0334218
+  },
+  {
+    "slug": "red-bull-enerji-i-ece-i-hindistan-cevizi-ve-a-ai-2",
+    "title": "Red Bull Enerji İçeceği Hindistan Cevizi Ve Açai 250 ML (24'Lü Paket 24x250 ML), Enerji, Kutu",
+    "category": "GÜNÜN FIRSATI",
+    "status": "posted",
+    "ts": 1795550198.4515865
   }
 ]
