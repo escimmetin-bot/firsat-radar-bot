@@ -1,12 +1,5 @@
 [
   {
-    "slug": "sma-comfort-3-devam-s-t-1-3-ya-400-g",
-    "title": "SMA Comfort 3 Devam Sütü (1-3 Yaş, 400 g)",
-    "category": "MUTFAK & EV FIRSATI",
-    "status": "posted",
-    "ts": 1794253731.0760686
-  },
-  {
     "slug": "baseus-crystal-shine-100w-120-cm-pd-type-c-arj-kab",
     "title": "Baseus Crystal Shine 100W 120 cm PD Type-C Şarj Kablosu Siyah",
     "category": "TEKNOLOJİ & EKİPMAN FIRSATI",
@@ -1048,5 +1041,12 @@
     "category": "GÜNÜN FIRSATI",
     "status": "posted_telegram",
     "ts": 1795639663.4760885
+  },
+  {
+    "slug": "adidas-originals-kad-n-campus-00s-shoes",
+    "title": "Adidas Originals Kadın Campus 00s Shoes",
+    "category": "MODA & GİYİM FIRSATI",
+    "status": "posted_telegram",
+    "ts": 1795643451.5504036
   }
 ]
