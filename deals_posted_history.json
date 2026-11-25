@@ -1,12 +1,5 @@
 [
   {
-    "slug": "calvin-klein",
-    "title": "Calvin Klein TRUNK 3PK Gövde Erkek",
-    "category": "MODA & GİYİM FIRSATI",
-    "status": "posted",
-    "ts": 1794229049.0058343
-  },
-  {
     "slug": "asperox-sparx-diamond-plus-40-l-bula-k-makinesi-de",
     "title": "Asperox Sparx Diamond Plus 40'lı Bulaşık Makinesi Deterjanı",
     "category": "MARKET & TEMİZLİK FIRSATI",
@@ -1048,5 +1041,12 @@
     "category": "TEKNOLOJİ & EKİPMAN FIRSATI",
     "status": "posted",
     "ts": 1795612009.9663534
+  },
+  {
+    "slug": "karaca-seal-fresh-inox-vakum-makinesi-vs2202",
+    "title": "Karaca Seal & Fresh Inox Vakum Makinesi Vs2202",
+    "category": "MUTFAK & EV FIRSATI",
+    "status": "posted",
+    "ts": 1795625930.0400414
   }
 ]
