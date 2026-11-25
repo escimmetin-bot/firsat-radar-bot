@@ -1,12 +1,5 @@
 [
   {
-    "slug": "amazon-deal-b0hgmgz5p3",
-    "title": "Prima Premium Care Külot Bez Ultra Fırsat Paketi 5 Numara 68 Adet Bebek Bezi",
-    "category": "KİŞİSEL BAKIM FIRSATI",
-    "status": "posted",
-    "ts": 1794249922.2390394
-  },
-  {
     "slug": "sma-comfort-3-devam-s-t-1-3-ya-400-g",
     "title": "SMA Comfort 3 Devam Sütü (1-3 Yaş, 400 g)",
     "category": "MUTFAK & EV FIRSATI",
@@ -1048,5 +1041,12 @@
     "category": "MUTFAK & EV FIRSATI",
     "status": "posted_telegram",
     "ts": 1795636183.1028652
+  },
+  {
+    "slug": "duru-gran-l-matik-sabun-klasik-1-kg",
+    "title": "Duru Granül Matik Sabun Klasik 1 Kg",
+    "category": "GÜNÜN FIRSATI",
+    "status": "posted_telegram",
+    "ts": 1795639663.4760885
   }
 ]
