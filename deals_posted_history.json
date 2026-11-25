@@ -1,12 +1,5 @@
 [
   {
-    "slug": "oral-b-io-radiant-white-beyaz-di-f-r-as-yedek-ba-l",
-    "title": "Oral-B iO Radiant White Beyaz Diş Fırçası Yedek Başlığı 4 Adet",
-    "category": "KİŞİSEL BAKIM FIRSATI",
-    "status": "posted",
-    "ts": 1794214019.7011561
-  },
-  {
     "slug": "stanley-cafe-to-go-travel-mug-termos-bardak-lacive",
     "title": "Stanley Cafe To-Go Travel Mug Termos Bardak, Lacivert (Twilight), 0.23 Litre",
     "category": "MUTFAK & EV FIRSATI",
@@ -1048,5 +1041,12 @@
     "category": "MARKET & KAHVE FIRSATI",
     "status": "posted",
     "ts": 1795596426.5014434
+  },
+  {
+    "slug": "karcher-wd-1-classic-1-628-411-0",
+    "title": "Karcher WD 1 Classic 1.628-411.0",
+    "category": "MUTFAK & EV FIRSATI",
+    "status": "posted",
+    "ts": 1795604391.5975132
   }
 ]
