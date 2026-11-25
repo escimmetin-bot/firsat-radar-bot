@@ -1,12 +1,5 @@
 [
   {
-    "slug": "julius-meinl-president-blend-t-lm-filtre-kahve-220",
-    "title": "Julius Meinl President Blend Öğütülmüş Filtre Kahve, 220 Gram x 8 Adet",
-    "category": "MUTFAK & EV FIRSATI",
-    "status": "posted",
-    "ts": 1794242087.8759053
-  },
-  {
     "slug": "adidas-eclyptix-2000-spor-ayakkab-01-ji2845-2",
     "title": "adidas Eclyptix 2000 Spor Ayakkabı, 01-JI2845-2",
     "category": "MODA & GİYİM FIRSATI",
@@ -1048,5 +1041,12 @@
     "category": "KİŞİSEL BAKIM FIRSATI",
     "status": "posted",
     "ts": 1795628806.0517182
+  },
+  {
+    "slug": "asics-gel-dedicate-9-tenis-ayakkab-s-39-5-3053a181",
+    "title": "Asics Gel-Dedicate 9 Tenis Ayakkabısı, 39,5, 3053A181-400, Beyaz, Kadın",
+    "category": "MODA & GİYİM FIRSATI",
+    "status": "posted_telegram",
+    "ts": 1795632294.075968
   }
 ]
