@@ -1,12 +1,5 @@
 [
   {
-    "slug": "ferrero-rocher-ikolata-16-l-200-gr",
-    "title": "Ferrero Rocher Çikolata 16'lı 200 Gr",
-    "category": "MARKET & KAHVE FIRSATI",
-    "status": "posted",
-    "ts": 1794313126.652724
-  },
-  {
     "slug": "brita-marella-xl-3x-maxtra-pro-pure-performance-fi",
     "title": "BRITA Marella XL 3x MAXTRA PRO Pure Performance Filtreli Su Arıtma Sürahisi - Mavi (3,5L)",
     "category": "MODA & GİYİM FIRSATI",
@@ -1048,5 +1041,12 @@
     "category": "MARKET & TEMİZLİK FIRSATI",
     "status": "posted",
     "ts": 1795687212.4430757
+  },
+  {
+    "slug": "ugreen-cat6-saf-bak-r-metal-konnekt-r-ethernet-kab",
+    "title": "Ugreen Cat6 Saf Bakır Metal Konnektör Ethernet Kablosu Siyah 2 Metre",
+    "category": "TEKNOLOJİ & EKİPMAN FIRSATI",
+    "status": "posted",
+    "ts": 1795694069.4252253
   }
 ]
