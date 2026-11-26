@@ -1,12 +1,5 @@
 [
   {
-    "slug": "gillette-venus-comfortglide-sugarberry-kokulu-miam",
-    "title": "Gillette Venus ComfortGlide Sugarberry Kokulu Miami Kadın 3'lü Yedek Bıçak",
-    "category": "MUTFAK & EV FIRSATI",
-    "status": "posted",
-    "ts": 1794335986.8165505
-  },
-  {
     "slug": "nutella-kakaolu-f-nd-k-kremas-400-gr",
     "title": "Nutella Kakaolu Fındık Kreması 400 Gr",
     "category": "MARKET & KAHVE FIRSATI",
@@ -1048,5 +1041,12 @@
     "category": "MODA & GİYİM FIRSATI",
     "status": "posted",
     "ts": 1795715573.0624735
+  },
+  {
+    "slug": "sma-optipro-2-devam-s-t-6-12-ay-800-g",
+    "title": "SMA Optipro 2 Devam Sütü (6-12 Ay, 800 g)",
+    "category": "MUTFAK & EV FIRSATI",
+    "status": "posted",
+    "ts": 1795718923.3689704
   }
 ]
