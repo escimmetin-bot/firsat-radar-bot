@@ -1,12 +1,5 @@
 [
   {
-    "slug": "jack-jones-jornorrebro-emb-sweat-high-neck-noos-sw",
-    "title": "Jack & Jones JORNORREBRO EMB SWEAT HIGH NECK NOOS Sweatshirt, 12282899",
-    "category": "MODA & GİYİM FIRSATI",
-    "status": "posted",
-    "ts": 1794293647.1094792
-  },
-  {
     "slug": "ferrero-rocher-ikolata-16-l-200-gr",
     "title": "Ferrero Rocher Çikolata 16'lı 200 Gr",
     "category": "MARKET & KAHVE FIRSATI",
@@ -1048,5 +1041,12 @@
     "category": "MUTFAK & EV FIRSATI",
     "status": "posted_telegram",
     "ts": 1795681979.5338275
+  },
+  {
+    "slug": "fairy-platinum-bula-k-makinesi-deterjan-kaps-l-tab",
+    "title": "Fairy Platinum Bulaşık Makinesi Deterjanı Kapsülü/Tableti 96 Yıkama Limon Kokulu",
+    "category": "MARKET & TEMİZLİK FIRSATI",
+    "status": "posted",
+    "ts": 1795687212.4430757
   }
 ]
