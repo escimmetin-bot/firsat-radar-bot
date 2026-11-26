@@ -1,12 +1,5 @@
 [
   {
-    "slug": "dardanel-zeytinya-l-ton-bal-3x75-gr",
-    "title": "Dardanel Zeytinyağlı Ton Balığı 3x75 gr",
-    "category": "MARKET & KAHVE FIRSATI",
-    "status": "posted",
-    "ts": 1794328970.8225534
-  },
-  {
     "slug": "ariel-professional-toz-ama-r-deterjan-15-kilogram",
     "title": "Ariel Professional Toz Çamaşır Deterjanı 15 Kilogram",
     "category": "MARKET & TEMİZLİK FIRSATI",
@@ -1048,5 +1041,12 @@
     "category": "MUTFAK & EV FIRSATI",
     "status": "posted",
     "ts": 1795708503.810964
+  },
+  {
+    "slug": "corega-beyazlat-c-temizleyici-tablet-30-adet",
+    "title": "Corega Beyazlatıcı Temizleyici Tablet 30 adet",
+    "category": "MARKET & TEMİZLİK FIRSATI",
+    "status": "posted",
+    "ts": 1795712360.4961252
   }
 ]
