@@ -1,12 +1,5 @@
 [
   {
-    "slug": "nutella-kakaolu-f-nd-k-kremas-400-gr",
-    "title": "Nutella Kakaolu Fındık Kreması 400 Gr",
-    "category": "MARKET & KAHVE FIRSATI",
-    "status": "posted",
-    "ts": 1794339882.4265273
-  },
-  {
     "slug": "defacto-regular-f-t-su-ge-irmez-mont-g5494ax25wn",
     "title": "DeFacto Regular Fıt Su Geçirmez Mont G5494AX25WN",
     "category": "MODA & GİYİM FIRSATI",
@@ -1048,5 +1041,12 @@
     "category": "MUTFAK & EV FIRSATI",
     "status": "posted",
     "ts": 1795718923.3689704
+  },
+  {
+    "slug": "bingo-siyahlar-keratinli-50-y-kama-s-v-ama-r-deter",
+    "title": "Bingo Siyahlar Keratinli 50 Yıkama Sıvı Çamaşır Deterjanı ( 1 x 3000 mL)",
+    "category": "MARKET & TEMİZLİK FIRSATI",
+    "status": "posted_telegram",
+    "ts": 1795723051.6670763
   }
 ]
