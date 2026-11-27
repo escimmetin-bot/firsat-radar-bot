@@ -1,12 +1,5 @@
 [
   {
-    "slug": "tefal-festive-manual-rondo-mor-500-ml",
-    "title": "Tefal Festive Manual Rondo - Mor - 500 ml",
-    "category": "MUTFAK & EV FIRSATI",
-    "status": "posted",
-    "ts": 1794495121.206609
-  },
-  {
     "slug": "ariel-professional-toz-ama-r-deterjan-66-y-kama-10",
     "title": "Ariel Professional Toz Çamaşır Deterjanı 66 Yıkama, 10 Kilogram",
     "category": "MARKET & TEMİZLİK FIRSATI",
@@ -1048,5 +1041,12 @@
     "category": "MODA & GİYİM FIRSATI",
     "status": "posted_telegram",
     "ts": 1795812453.472366
+  },
+  {
+    "slug": "schwarzkopf-men-perfect-sa-boyas-80-kahve-siyah-80",
+    "title": "Schwarzkopf Men Perfect Saç Boyası 80 - Kahve Siyah, 80 Ml",
+    "category": "MARKET & KAHVE FIRSATI",
+    "status": "posted_telegram",
+    "ts": 1795816119.9479983
   }
 ]
