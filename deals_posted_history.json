@@ -1,12 +1,5 @@
 [
   {
-    "slug": "schwarzkopf-men-perfect-sa-boyas-80-kahve-siyah-80",
-    "title": "Schwarzkopf Men Perfect Saç Boyası 80 - Kahve Siyah, 80 Ml",
-    "category": "MARKET & KAHVE FIRSATI",
-    "status": "posted",
-    "ts": 1794462773.5697918
-  },
-  {
     "slug": "yumo-extra-konsantre-ama-r-yumu-at-c-s-orkide-1440",
     "title": "Yumoş Extra Konsantre Çamaşır Yumuşatıcısı Orkide 1440 ml",
     "category": "MARKET & TEMİZLİK FIRSATI",
@@ -1048,5 +1041,12 @@
     "category": "MUTFAK & EV FIRSATI",
     "status": "posted_telegram",
     "ts": 1795805235.0856876
+  },
+  {
+    "slug": "klasse-longteng-huoyun-special-edition-480x400x4-m",
+    "title": "Klasse Longteng Huoyun Special Edition 480x400x4 mm E-Sports Gaming Oyuncu Mouse Pad (Tiger)",
+    "category": "TEKNOLOJİ & EKİPMAN FIRSATI",
+    "status": "posted_telegram",
+    "ts": 1795809136.8796835
   }
 ]
