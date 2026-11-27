@@ -1,12 +1,5 @@
 [
   {
-    "slug": "wmf-pilav-tenceresi-24-santimetre",
-    "title": "WMF Pilav Tenceresi 24 Santimetre",
-    "category": "MUTFAK & EV FIRSATI",
-    "status": "posted",
-    "ts": 1794376278.0372202
-  },
-  {
     "slug": "kad-n-beyaz-ti-rt-50333795-vr265",
     "title": "Kadın BEYAZ Tişört 50333795 VR265",
     "category": "MODA & GİYİM FIRSATI",
@@ -1048,5 +1041,12 @@
     "category": "MUTFAK & EV FIRSATI",
     "status": "posted_telegram",
     "ts": 1795729534.3778255
+  },
+  {
+    "slug": "jacobs-origins-brazil-colombia-filtre-kahve-200-g",
+    "title": "Jacobs Origins Brazil & Colombia Filtre Kahve 200 g",
+    "category": "MARKET & KAHVE FIRSATI",
+    "status": "posted_telegram",
+    "ts": 1795759016.8097918
   }
 ]
