@@ -1,12 +1,5 @@
 [
   {
-    "slug": "nutella-kakaolu-f-nd-k-kremas-1-kg-glutensiz",
-    "title": "Nutella Kakaolu Fındık Kreması 1 Kg",
-    "category": "MARKET & KAHVE FIRSATI",
-    "status": "posted",
-    "ts": 1794426833.758171
-  },
-  {
     "slug": "coverzone-oklay-c-adapt-r-7in1-usb-type-c-to-usb-a",
     "title": "Coverzone Çoklayıcı Adaptör 7in1 USB/Type-c To USB A, USB C Macbook uyumlu Çevirici Adaptör Çok Portlu Çoklayıcı 7 in 1 USB HUB (Gri)",
     "category": "TEKNOLOJİ & EKİPMAN FIRSATI",
@@ -1048,5 +1041,12 @@
     "category": "MODA & GİYİM FIRSATI",
     "status": "posted_telegram",
     "ts": 1795797287.8169293
+  },
+  {
+    "slug": "l-or-advent-takvimi-2026-nespresso-uyumlu-al-minyu",
+    "title": "L'OR Advent Takvimi 2026 Nespresso Uyumlu Alüminyum Kapsül Kahve 24 Adet",
+    "category": "MARKET & TEMİZLİK FIRSATI",
+    "status": "posted_telegram",
+    "ts": 1795801818.5908263
   }
 ]
