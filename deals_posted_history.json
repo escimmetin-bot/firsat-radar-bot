@@ -1,12 +1,5 @@
 [
   {
-    "slug": "amazon-deal-b0gyt1xv3m",
-    "title": "Prima Bebek Bezi Aktif Bebek Mega Fırsat Paketi 6 Beden 76 Adet",
-    "category": "KİŞİSEL BAKIM FIRSATI",
-    "status": "posted",
-    "ts": 1794392922.0617287
-  },
-  {
     "slug": "finish-bula-k-makinesi-parlat-c-kurutucu-1-x-800-m",
     "title": "Finish Bulaşık Makinesi Parlatıcı & Kurutucu (1 x 800 ml)",
     "category": "MARKET & TEMİZLİK FIRSATI",
@@ -1048,5 +1041,12 @@
     "category": "MARKET & TEMİZLİK FIRSATI",
     "status": "posted_telegram",
     "ts": 1795769126.2642248
+  },
+  {
+    "slug": "regular-f-t-polo-yaka-sweatshirt-h8234ax26au",
+    "title": "DeFacto Regular Fıt Polo Yaka Sweatshirt H8234AX26AU",
+    "category": "MODA & GİYİM FIRSATI",
+    "status": "posted_telegram",
+    "ts": 1795776762.3760352
   }
 ]
