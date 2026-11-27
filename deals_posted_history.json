@@ -1,12 +1,5 @@
 [
   {
-    "slug": "stanley-pour-over-paslanmaz-elik-kahve-demleyici",
-    "title": "Stanley Pour Over Paslanmaz Çelik Kahve Demleyici",
-    "category": "MUTFAK & EV FIRSATI",
-    "status": "posted",
-    "ts": 1794422758.7181246
-  },
-  {
     "slug": "nutella-kakaolu-f-nd-k-kremas-1-kg-glutensiz",
     "title": "Nutella Kakaolu Fındık Kreması 1 Kg",
     "category": "MARKET & KAHVE FIRSATI",
@@ -1048,5 +1041,12 @@
     "category": "TEKNOLOJİ & EKİPMAN FIRSATI",
     "status": "posted_telegram",
     "ts": 1795793262.7299917
+  },
+  {
+    "slug": "dagi-uzun-kollu-i-nterlok-ti-rt-pantolon-tak-m",
+    "title": "Dagi Uzun Kollu İnterlok Tişört Pantolon Takım",
+    "category": "MODA & GİYİM FIRSATI",
+    "status": "posted_telegram",
+    "ts": 1795797287.8169293
   }
 ]
