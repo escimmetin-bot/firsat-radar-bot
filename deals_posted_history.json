@@ -1,12 +1,5 @@
 [
   {
-    "slug": "finish-bula-k-makinesi-parlat-c-kurutucu-1-x-800-m",
-    "title": "Finish Bulaşık Makinesi Parlatıcı & Kurutucu (1 x 800 ml)",
-    "category": "MARKET & TEMİZLİK FIRSATI",
-    "status": "posted_telegram",
-    "ts": 1794399806.3598626
-  },
-  {
     "slug": "kahve-d-nyas-lavi-kar-k-dolgulu-ikolata-1kg",
     "title": "Kahve Dünyası Lavi Karışık Dolgulu Çikolata 1kg",
     "category": "MARKET & KAHVE FIRSATI",
@@ -1048,5 +1041,12 @@
     "category": "MODA & GİYİM FIRSATI",
     "status": "posted_telegram",
     "ts": 1795776762.3760352
+  },
+  {
+    "slug": "ferrero-rocher-ikolata-16-l-200-gr",
+    "title": "Ferrero Rocher Çikolata 16'lı 200 Gr",
+    "category": "MARKET & KAHVE FIRSATI",
+    "status": "posted_telegram",
+    "ts": 1795784380.3612163
   }
 ]
