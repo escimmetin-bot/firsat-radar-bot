@@ -1,12 +1,5 @@
 [
   {
-    "slug": "kahve-d-nyas-lavi-kar-k-dolgulu-ikolata-1kg",
-    "title": "Kahve Dünyası Lavi Karışık Dolgulu Çikolata 1kg",
-    "category": "MARKET & KAHVE FIRSATI",
-    "status": "posted",
-    "ts": 1794419356.7962775
-  },
-  {
     "slug": "stanley-pour-over-paslanmaz-elik-kahve-demleyici",
     "title": "Stanley Pour Over Paslanmaz Çelik Kahve Demleyici",
     "category": "MUTFAK & EV FIRSATI",
@@ -1048,5 +1041,12 @@
     "category": "MARKET & KAHVE FIRSATI",
     "status": "posted_telegram",
     "ts": 1795784380.3612163
+  },
+  {
+    "slug": "baseus-enerfill-gan-100w-3-portlu-2x-type-c-1x-usb",
+    "title": "Baseus Enerfill GaN 100W 3 Portlu (2x Type-C + 1x USB-A) Hızlı Şarj Adaptörü, PD ve QC Destekli, MacBook, iPad, iPhone ve Notebook Uyumlu, Beyaz",
+    "category": "TEKNOLOJİ & EKİPMAN FIRSATI",
+    "status": "posted_telegram",
+    "ts": 1795793262.7299917
   }
 ]
