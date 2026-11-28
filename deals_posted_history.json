@@ -1,12 +1,5 @@
 [
   {
-    "slug": "nutella-kakaolu-f-nd-k-kremas-1-kg",
-    "title": "Nutella Kakaolu Fındık Kreması 1 Kg",
-    "category": "MARKET & KAHVE FIRSATI",
-    "status": "posted",
-    "ts": 1794512816.4513526
-  },
-  {
     "slug": "puma-milenio-tech-lt-ko-u-ayakkab-s-unisex-yeti-ki",
     "title": "PUMA Milenio Tech LT Koşu AyakkabısıUnisex Yetişkin",
     "category": "MODA & GİYİM FIRSATI",
@@ -1048,5 +1041,12 @@
     "category": "MODA & GİYİM FIRSATI",
     "status": "posted",
     "ts": 1795866144.5051847
+  },
+  {
+    "slug": "colgate-optic-white-beyazlat-c-a-z-bak-m-suyu-500-",
+    "title": "Colgate Optic White Beyazlatıcı Ağız Bakım Suyu 500 ml",
+    "category": "KİŞİSEL BAKIM FIRSATI",
+    "status": "posted",
+    "ts": 1795874269.3324761
   }
 ]
